@@ -1,0 +1,190 @@
+start
+A	S	S	_
+_	_	_	nom	n/nom	gen	+1	_	-1	opred	_	kvaziagent|1-kompl	_
+_	ение	_
+end
+
+start
+PARTCP	S	S	_
+_	_	_	gen	acc	gen	_	-1	-1	_	1-kompl	kvaziagent|1-kompl	_
+end
+
+start
+A	как	A	S	_
+_	_	_	_	gen	_	nom	nom	_	-1	+1	-2	_	2-kompl	opred	sravn-soyuzn	_
+end
+
+start
+V	S	S	_
+_	_	_	indic	acc	gen	_	-1	-1	_	1-kompl	kvaziagent|1-kompl	_
+end
+
+start
+S	S	_
+_	_	nom	gen	_	-1	_	kvaziagent|1-kompl	_
+end
+
+start
+S	PARTCP	_
+_	_	gen	gen	_	-1	_	opred	_
+end
+
+start
+S	PARTCP	_
+_	_	nom	nom	_	-1	_	opred	_
+end
+
+start
+PARTCP	ADV	_
+_	_	nom	_	_	-1	_	obst	_
+end
+
+start
+A	S	_
+_	_	gen	gen	+1	_	opred	_	_
+end
+
+start
+S	PARTCP	_
+_	_	gen	gen	_	-1	_	opred	_
+end
+
+start
+S	S	_
+_	_	gen	gen	_	-1	_	kvaziagent	_
+end
+
+start
+за	A	S	_
+_	_	_	_	acc	acc	_	+1	-2	_	opred	predl	_
+end
+
+start
+S	V	_
+_	_	nom	indic	+1	_	predic	_	_
+end
+
+start
+S	PART	S	_
+_	_	_	gen	_	gen/inan	_	+1	-2	_	vspom	appoz	_
+end
+
+start
+SPRO	V	_
+_	_	nom	ger	+1	_	predic	_	_	
+end
+
+start
+PR	S	_
+_	_	_	_	_	-1	_	predl	_
+end
+
+start
+PR	SPRO	_
+_	_	_	_	_	-1	_	predl	_
+end
+
+start
+S	A	S	_
+_	_	_	nom	_	_	_	+1	-2	_	opred	1-kompl	_
+end
+
+start
+S	A	S	_
+_	_	_	gen	gen	gen	_	+1	-2	_	opred	kvaziagent|1-kompl	_
+end
+
+start
+S	с	_
+_	_	gen	_	_	-1	_	atrib	_
+end
+
+start
+V	на	_
+1-kompl	_	indic	_	_	-1	_	1-kompl	_
+end
+
+start
+и	ADV	_
+_	_	conj	adv	-1	-1	sochin	soch-soyuzn	_
+end
+
+start
+а	ADV	PARTCP	_
+_	_	_	conj	adv	_	_	+1	-2	_	obst	soch-soyuzn	_
+end
+
+start
+V	A	A	S	_
+_	_	_	_	indic	ins	ins	ins	_	+2	+1	-3	_	opred	opred	agent	_
+end
+
+start
+PARTCP	A	A	S	_
+soch-soyuzn	_	_	_	_	nom	nom	nom	_	+2	+1	-3	_	opred	opred	2-kompl	_
+end
+
+start
+S	и	S	_
+1-kompl	_	_	gen	_	gen	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+V	на	A	S	_
+_	_	_	_	_	_	acc	acc	_	-1	+1	-2	_	1-kompl	opred	predl	_
+end
+
+start
+в	A	S	_
+_	_	_	_	pr	pr	_	+1	-2	_	opred	predl	_
+end
+
+start
+PR	A	A	A	S	_
+_	_	_	_	_	_	_	_	_	_	_	+3	+2	+1	-4	_	opred	opred	opred	predl	_
+end
+
+start
+V	NUM	A	S	_
+_	_	_	_	indic	_	ins	ins	_	+2	+1	-3	_	kolichest	opred	1-kompl	_
+end
+
+start
+A	S	S	_
+_	_	_	nom	nom	gen	+1	_	-1	opred	_	kvaziagent|1-kompl	_
+end
+
+start
+V	S	S	_
+_	_	_	indic	acc	gen	_	-1	-1	_	1-kompl	kvaziagent|1-kompl	_
+end
+
+start
+S	S	_
+_	_	nom	gen	_	-1	_	kvaziagent|1-kompl	_
+end
+
+start
+S	PARTCP	_
+_	_	gen	gen	_	-1	_	opred	_
+end
+
+start
+A	S	_
+_	_	gen	gen	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	nom	nom	+1	_	opred	_	_
+end
+
+start
+S	PARTCP	_
+_	_	gen	gen	_	-1	_	opred	_
+end
+
+start
+V	на	_
+_	_	indic	_	_	-1	_	1-kompl	_
+end

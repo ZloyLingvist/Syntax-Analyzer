@@ -1,0 +1,9 @@
+root
+{
+743	V	indic	_	_
+150	S	nom	_	_
+58	CONJ	_	_	_
+37	NUM	_	_	_
+26	A	brev	_	_
+24	ADV	_	_	_
+}

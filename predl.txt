@@ -1,0 +1,33 @@
+predl
+{
+107	S	s sg m pr inan	в	_	_	prev	_	_	_
+72	S	s sg f pr inan	в	_	_	prev	_	_	_
+59	S	s sg m mestn inan	в	_	_	left	S/NUM/PR	predl/opred/obst	_
+51	S	s pl f pr inan	в	_	_	prev	_	_	_
+46	S	s sg n gen inan	для	_	_	prev	_	_	_
+45	S	s sg n pr inan	в	_	_	prev	_	_	_
+34	S	s sg m acc inan	на	_	_	prev	_	_	_
+34	S	s sg m dat inan	по	_	_	prev	_	_	_
+34	S	s sg n pr inan	при	_	_	prev	_	_	_
+33	S	s pl f acc inan	на	_	_	prev	_	_	_
+30	S	s sg f acc inan	в	_	_	prev	_	_	_
+27	S	s sg m pr inan	на	_	_	prev	_	_	_
+27	S	s sg f acc inan	на	_	_	prev	_	_	_
+26	S	s sg n ins inan	с	_	_	prev	_	_	_
+23	S	s sg n pr inan	о	_	_	prev	_	_	_
+22	S	s sg m ins inan	над	_	_	prev	_	_	_
+21	S	s sg m pr inan	в	_	_	left	S/A/PR	predl/opred/obst	_
+20	S	s sg f gen inan	для	_	_	prev	_	_	_
+20	S	s sg m acc inan	в	_	_	prev	_	_	_
+19	S	s sg f acc inan	на	_	_	left	S/A/PR	predl/opred/2-kompl	_
+19	SPRO	_	из	_	_	prev	_	_	_
+17	S	s sg n gen inan	после	_	_	prev	_	_	_
+17	S	s sg f dat inan	по	_	_	prev	_	_	_
+15	S	s sg n dat inan	к	_	_	prev	_	_	_
+15	S	s sg f pr inan	в	_	_	left	S/A/PR	predl/opred/obst	_
+12	S	s sg m pr inan	в	_	_	left	S/A/PR	predl/opred/atrib	_
+12	S	s sg f pr inan	на	_	_	prev	_	_	_
+12	S	s sg f ins inan	с	_	_	prev	_	_	_
+11	S	s pl n dat inan	по	_	_	prev	_	_	_
+11	SPRO	_	у	_	_	prev	_	_	_
+}

@@ -1,0 +1,22 @@
+kvaziagent
+{
+50	S	s sg m gen inan	S	_	gen	prev	_	_	_
+47	S	s sg m gen inan	S	_	nom	prev	_	_	_
+41	S	s sg f gen inan	S	_	gen	prev	_	_	_
+32	S	s sg n gen inan	S	_	ins	prev	_	_	_
+27	S	s sg f gen inan	S	_	acc	prev	_	_	_
+22	S	s sg n gen inan	S	_	acc	prev	_	_	_
+19	S	s sg m gen inan	S	_	acc	prev	_	_	_
+19	S	s sg n gen inan	S	_	nom	prev	_	_	_
+17	S	s sg f gen inan	S	_	nom	prev	_	_	_
+16	S	s sg n gen inan	S	_	gen	prev	_	_	_
+15	S	s sg m gen inan	S	_	ins	prev	_	_	_
+14	S	s pl m gen anim	S	_	nom	prev	_	_	_
+14	S	s sg m gen inan	S	_	pr	left	S/NUM/S	kvaziagent/opred/predl	_
+12	S	s pl n gen inan	S	_	nom	prev	_	_	_
+12	S	s sg n gen inan	S	_	pr	prev	_	_	_
+11	S	s pl f gen inan	S	_	acc	prev	_	_	_
+11	S	s sg m gen anim	S	_	gen	prev	_	_	_
+11	S	s pl m gen inan	S	_	gen	prev	_	_	_
+11	S	s pl m gen inan	S	_	nom	prev	_	_	_
+}

@@ -1,0 +1,5 @@
+primikat	_
+{
+13	NID	_	S	_	nom	prev	_	_	_
+11	S	nom	S	_	nom	prev	_	_	_
+}

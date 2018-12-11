@@ -1,0 +1,7235 @@
+start
+A	A	_
+_	_	a	pr/pr	+1	+1	kompoz	opred	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+A	NUM	_
+_	_	pl/pl	num	+1	+2	opred	kolichest	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	присвяз	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+PART	ADV	_
+_	_	part	adv	+1	+1	ogranich	ogranich	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	+1	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	acc/pl	inpraes/inpraes	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	+2	opred	dlitel	_
+end
+
+start
+S	V	_
+_	_	nom/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+SPRO	V	_
+_	_	ins/sg	ipf/ipf	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	_	opred	_	_
+end
+
+start
+ADV	ADV	_
+_	_	adv	adv	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	A	_
+_	_	pl/pl	pl/pl	+1	+1	opred	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	-2	opred	primikat	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	opred	_	_
+end
+
+start
+SPRO	S	_
+_	_	gen/pl	acc/pl	+1	-2	1-kompl	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	-2	opred	3-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	opred	_	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	sochin	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	_	opred	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/pl	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	-2	ogranich	obst	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	A	_
+_	_	pl/pl	pl/pl	+1	_	opred	_	_
+end
+
+start
+A	NID	_
+_	_	sg/sg	nid	+1	+2	opred	predic	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+PART	S	_
+_	_	part	gen/sg	+1	-2	vspom	appoz	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pr/pr	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+SPRO	V	_
+_	_	nom/pl	pl/pl	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	sravn-soyuzn	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	kolichest	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	-2	ogranich	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	+2	opred	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	/pr	+1	-2	kolichest	predl	_
+end
+
+start
+ADV	A	_
+_	_	adv	pl/pl	+1	+1	atrib	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	root	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	-2	ogranich	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+PART	ADV	_
+_	_	part	adv	+1	+1	ogranich	ogranich	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	praet/praet	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/pl	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+S	V	_
+_	_	acc/sg	inpraes/inpraes	+1	-2	1-kompl	podch-soyuzn	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+ADV	S	_
+_	_	adv	gen/pl	+1	-2	ogranich	разъяснит	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	-2	opred	primikat	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+PART	V	_
+_	_	part	pl/pl	+1	_	ogranich	_	_
+end
+
+start
+ADV	CONJ	_
+_	_	adv	conj	+1	-2	ogranich	2-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	sravn-soyuzn	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	-2	ogranich	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	relyat	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	_	opred	_	_
+end
+
+start
+A	V	_
+_	_	sg/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	-2	1-kompl	relyat	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	сравнит	_
+end
+
+start
+A	A	_
+_	_	a	pr/pr	+1	_	kompoz	_	_
+end
+
+start
+A	A	_
+_	_	a	pr/pr	+1	-2	kompoz	sochin	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	primikat	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	сравнит	_
+end
+
+start
+NUM	V	_
+_	_	num	pl/pl	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/pl	pl/pl	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+PART	A	_
+_	_	part	sg/sg	+1	+2	ogranich	opred	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	nom/sg	+1	_	kvaziagent	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	разъяснит	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+PART	S	_
+_	_	part	gen/sg	+1	-2	vspom	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	S	_
+_	_	adv	acc/sg	+1	-2	vvodn	sravn-soyuzn	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+S	V	_
+_	_	nom/pl	strad/strad	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	dat/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+PART	S	_
+_	_	part	gen/sg	+1	-2	vspom	appoz	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	acc/sg	+1	-2	kolichest	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	+1	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	acc/sg	inpraes/inpraes	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	-2	ogranich	podch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	+1	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	acc/sg	inpraes/inpraes	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	+1	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	acc/sg	ipf/ipf	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	+1	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	acc/sg	pl/pl	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	+2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	+2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	acc/sg	+1	-2	kvaziagent	soch-soyuzn	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	-2	ogranich	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	dat/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+ADV	V	_
+_	_	adv	strad/strad	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+PART	A	_
+_	_	part	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	+1	opred	2-kompl	_
+end
+
+start
+S	V	_
+_	_	dat/sg	strad/strad	+1	_	2-kompl	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+ADV	ADV	_
+_	_	adv	adv	+1	+1	ogranich	ogranich	_
+end
+
+start
+ADV	A	_
+_	_	adv	brev/brev	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+PARTCP	S	_
+_	_	inpraes/inpraes	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	nom/pl	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	sochin	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+PART	V	_
+_	_	part	v	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	S	_
+_	_	adv	nom/sg	+1	-2	ogranich	разъяснит	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+PART	ADV	_
+_	_	part	adv	+1	+1	ogranich	ogranich	_
+end
+
+start
+ADV	A	_
+_	_	adv	brev/brev	+1	_	ogranich	_	_
+end
+
+start
+PART	A	_
+_	_	part	pl/pl	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	-2	ogranich	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	strad/strad	+1	_	ogranich	_	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	-2	ogranich	obst	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+S	V	_
+_	_	nom/pl	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+PART	V	_
+_	_	part	v	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	+1	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	ins/sg	inpraes/inpraes	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	+1	opred	присвяз	_
+end
+
+start
+S	V	_
+_	_	ins/sg	ipf/ipf	+1	_	присвяз	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+S	V	_
+_	_	nom/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+S	S	_
+_	_	ins/sg	ins/sg	+1	-2	vspom	appoz	_
+end
+
+start
+S	S	_
+_	_	gen/sg	gen/sg	+1	-2	vspom	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	+2	opred	vvodn	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	+2	opred	vvodn	_
+end
+
+start
+SPRO	V	_
+_	_	nom/pl	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	+2	ogranich	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	agent	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	-2	ogranich	primikat	_
+end
+
+start
+S	V	_
+_	_	nom/pl	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	присвяз	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	+1	opred	predic	_
+end
+
+start
+S	A	_
+_	_	nom/pl	brev/brev	+1	_	predic	_	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	-2	ogranich	obst	_
+end
+
+start
+SPRO	V	_
+_	_	nom/pl	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	_	opred	_	_
+end
+
+start
+PART	A	_
+_	_	part	sg/sg	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	PR	_
+_	_	nom/sg	pr	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	2-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+PART	A	_
+_	_	part	sg/sg	+1	-2	ogranich	присвяз	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+S	V	_
+_	_	nom/pl	pl/pl	+1	-2	predic	podch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	strad/strad	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	prolept	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	+2	prolept	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	prolept	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	+2	prolept	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	A	_
+_	_	part	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+ADV	V	_
+_	_	adv	indic/indic	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	+1	kolichest	predic	_
+end
+
+start
+S	V	_
+_	_	gen/sg	pl/pl	+1	_	predic	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+S	S	_
+_	_	gen/sg	gen/sg	+1	_	vspom	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+PART	S	_
+_	_	part	gen/sg	+1	-2	vspom	appoz	_
+end
+
+start
+PART	S	_
+_	_	part	gen/sg	+1	-2	vspom	appoz	_
+end
+
+start
+PART	S	_
+_	_	part	gen/sg	+1	-2	vspom	appoz	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	-2	vspom	разъяснит	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	-2	opred	predl	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	sochin	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	sochin	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	dat/pl	+1	-2	opred	predl	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+1	ogranich	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+S	V	_
+_	_	ins/sg	inpraes/inpraes	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	root	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	gen/pl	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+SPRO	S	_
+_	_	gen/pl	gen/pl	+1	-2	1-kompl	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	-2	obst	soch-soyuzn	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	-2	obst	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	разъяснит	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	разъяснит	_
+end
+
+start
+A	S	_
+_	_	pr/pr	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	разъяснит	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	разъяснит	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	_	kolichest	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	PARTCP	_
+_	_	part	inpraes/inpraes	+1	+2	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	-2	predic	soch-soyuzn	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+S	S	_
+_	_	ins/sg	ins/sg	+1	_	vspom	_	_
+end
+
+start
+S	S	_
+_	_	ins/sg	ins/sg	+1	-2	vspom	sochin	_
+end
+
+start
+S	S	_
+_	_	ins/sg	ins/sg	+1	-2	vspom	sochin	_
+end
+
+start
+S	S	_
+_	_	ins/sg	ins/sg	+1	-2	vspom	sochin	_
+end
+
+start
+S	S	_
+_	_	ins/sg	ins/sg	+1	-2	vspom	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+S	V	_
+_	_	nom/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	_	ogranich	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+A	A	_
+_	_	a	pr/pr	+1	+1	kompoz	opred	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	-2	vspom	appoz	_
+end
+
+start
+S	V	_
+_	_	nom/pl	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	indic/indic	+1	_	ogranich	_	_
+end
+
+start
+A	SPRO	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+A	V	_
+_	_	brev/brev	ipf/ipf	+1	_	присвяз	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	V	_
+_	_	pl/pl	ipf/ipf	+1	-2	predic	root	_
+end
+
+start
+A	NID	_
+_	_	pl/pl	nid	+1	-2	opred	predl	_
+end
+
+start
+A	V	_
+_	_	pl/pl	ipf/ipf	+1	_	1-kompl	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	brev/brev	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+PARTCP	V	_
+_	_	inpraes/inpraes	inpraes/inpraes	+1	-2	predic	podch-soyuzn	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	1-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	soch-soyuzn	_
+end
+
+start
+ADV	A	_
+_	_	adv	pl/pl	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	_	opred	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	pl/pl	+1	_	ogranich	_	_
+end
+
+start
+PARTCP	S	_
+_	_	inpraes/inpraes	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+ADV	A	_
+_	_	adv	pr/pr	+1	+2	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+S	V	_
+_	_	nom/pl	strad/strad	+1	_	predic	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+1	obst	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	dat/pl	+1	_	opred	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	+1	ogranich	присвяз	_
+end
+
+start
+A	V	_
+_	_	sg/sg	ipf/ipf	+1	_	присвяз	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	_	ogranich	_	_
+end
+
+start
+PARTCP	S	_
+_	_	inpraes/inpraes	ins/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	V	_
+_	_	sg/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+ADV	ADV	_
+_	_	adv	adv	+1	-2	ogranich	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	_	obst	_	_
+end
+
+start
+ADV	NUM	_
+_	_	adv	num	+1	+1	ogranich	opred	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+1	2-kompl	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	_	opred	_	_
+end
+
+start
+ADV	S	_
+_	_	adv	nom/pl	+1	_	ogranich	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+1	obst	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+2	obst	opred	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+S	A	_
+_	_	nom/sg	brev/brev	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	+2	opred	1-kompl	_
+end
+
+start
+PART	A	_
+_	_	part	pl/pl	+1	+2	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	_	ogranich	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	/pr	+1	-2	kvaziagent	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	сравнит	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	_	ogranich	_	_
+end
+
+start
+SPRO	S	_
+_	_	gen/pl	/pr	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+ADV	V	_
+_	_	adv	3p/3p	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	indic/indic	+1	-2	ogranich	root	_
+end
+
+start
+PART	NUM	_
+_	_	part	num	+1	+1	ogranich	kolichest	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	_	kolichest	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	+2	opred	predic	_
+end
+
+start
+ADV	V	_
+_	_	adv	indic/indic	+1	_	obst	_	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	-2	ogranich	3-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	_	obst	_	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	-2	ogranich	soch-soyuzn	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	-2	obst	root	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	_	ogranich	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+S	S	_
+_	_	gen/sg	gen/sg	+1	-2	vspom	atrib	_
+end
+
+start
+S	S	_
+_	_	gen/sg	gen/sg	+1	-2	vspom	atrib	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	strad/strad	+1	_	predic	_	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	-2	vvodn	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	obst	_	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	nom/sg	+1	_	1-kompl	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	strad/strad	+1	-2	obst	root	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+ADV	V	_
+_	_	adv	strad/strad	+1	-2	obst	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+PART	PART	_
+_	_	part	part	+1	+1	ogranich	ogranich	_
+end
+
+start
+PART	V	_
+_	_	part	strad/strad	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+NUM	V	_
+_	_	num	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+PART	S	_
+_	_	part	acc/sg	+1	_	ogranich	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	primikat	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	sochin	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	сравнит	_
+end
+
+start
+NUM	S	_
+_	_	num	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	_	kolichest	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	_	kolichest	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	appoz	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	obst	_	_
+end
+
+start
+PART	ADV	_
+_	_	part	adv	+1	+1	ogranich	ogranich	_
+end
+
+start
+ADV	A	_
+_	_	adv	pr/pr	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	sravn-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	присвяз	_	_
+end
+
+start
+ADV	NUM	_
+_	_	adv	num	+1	+1	ogranich	kolichest	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	_	kolichest	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	dat/sg	+1	-2	kolichest	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	присвяз	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	1-kompl	_
+end
+
+start
+PART	NUM	_
+_	_	part	num	+1	+1	ogranich	kolichest	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	kolichest	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predic	_
+end
+
+start
+NUM	NID	_
+_	_	num	nid	+1	_	kolichest	_	_
+end
+
+start
+NUM	NID	_
+_	_	num	nid	+1	-2	kolichest	sochin	_
+end
+
+start
+NUM	NID	_
+_	_	num	nid	+1	-2	kolichest	soch-soyuzn	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	kolichest	predic	_
+end
+
+start
+NUM	NID	_
+_	_	num	nid	+1	_	kolichest	_	_
+end
+
+start
+NUM	NID	_
+_	_	num	nid	+1	-2	kolichest	soch-soyuzn	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	ins/pl	+1	-2	kolichest	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	indic/indic	+1	-2	obst	soch-soyuzn	_
+end
+
+start
+PART	NUM	_
+_	_	part	num	+1	+1	ogranich	kolichest	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	_	kolichest	_	_
+end
+
+start
+NUM	S	_
+_	_	num	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	ADV	_
+_	_	adv	adv	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	kolichest	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	kolichest	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	+2	kolichest	predic	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	kompl-appoz	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	-2	vspom	appoz	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	-2	vspom	appoz	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	strad/strad	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+PART	PARTCP	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+ADV	A	_
+_	_	adv	pl/pl	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+ADV	PR	_
+_	_	adv	pr	+1	-2	ogranich	obst	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	agent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+ADV	V	_
+_	_	adv	indic/indic	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	kolichest	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	_	ogranich	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	kolichest	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	strad/strad	+1	_	obst	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+1	2-kompl	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	nom/sg	+1	_	opred	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	pl/pl	+1	_	atrib	_	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	atrib	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+ADV	V	_
+_	_	adv	strad/strad	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	1-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+1	obst	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	dat/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+PART	V	_
+_	_	part	strad/strad	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	indic/indic	+1	_	obst	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	присвяз	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+ADV	S	_
+_	_	adv	nom/sg	+1	-2	obst	primikat	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	strad/strad	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+S	V	_
+_	_	nom/pl	strad/strad	+1	_	predic	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/pr	+1	-2	kolichest	predl	_
+end
+
+start
+A	A	_
+_	_	a	sg/sg	+1	+1	kompoz	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+ADV	V	_
+_	_	adv	indic/indic	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	ins/pl	+1	-2	kolichest	predl	_
+end
+
+start
+PART	A	_
+_	_	part	brev/brev	+1	_	ogranich	_	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	strad/strad	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	-2	opred	primikat	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	predic	_
+end
+
+start
+PART	A	_
+_	_	part	pl/pl	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	_	opred	_	_
+end
+
+start
+S	V	_
+_	_	nom/pl	inpraes/inpraes	+1	-2	predic	sent-soch	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	acc/sg	+1	-2	atrib	predl	_
+end
+
+start
+PART	A	_
+_	_	part	pl/pl	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+PART	A	_
+_	_	part	pl/pl	+1	+2	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+PART	NUM	_
+_	_	part	num	+1	+1	ogranich	kolichest	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	kolichest	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+ADV	V	_
+_	_	adv	indic/indic	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	PART	_
+_	_	part	part	+1	+1	ogranich	ogranich	_
+end
+
+start
+PART	V	_
+_	_	part	strad/strad	+1	_	ogranich	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	-2	ogranich	opred	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+ADV	A	_
+_	_	adv	pr/pr	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+PART	PARTCP	_
+_	_	part	strad/strad	+1	+1	ogranich	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	/pr	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+PART	NID	_
+_	_	part	nid	+1	_	ogranich	_	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+S	V	_
+_	_	nom/pl	pl/pl	+1	-2	predic	podch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	присвяз	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	_	obst	_	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+ADV	A	_
+_	_	adv	brev/brev	+1	_	ogranich	_	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	S	_
+_	_	part	acc/sg	+1	-2	vspom	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+2	opred	predic	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	+1	vspom	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+PART	PART	_
+_	_	part	part	+1	+1	ogranich	ogranich	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+PART	S	_
+_	_	part	gen/pl	+1	_	ogranich	_	_
+end
+
+start
+PART	PARTCP	_
+_	_	part	strad/strad	+1	+1	ogranich	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	acc/pl	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+PART	S	_
+_	_	part	gen/sg	+1	-2	vspom	appoz	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+PART	S	_
+_	_	part	gen/sg	+1	-2	vspom	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	присвяз	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+PART	A	_
+_	_	part	sg/sg	+1	+2	ogranich	opred	_
+end
+
+start
+PART	S	_
+_	_	part	nom/pl	+1	_	ogranich	_	_
+end
+
+start
+ADV	NUM	_
+_	_	adv	num	+1	+1	ogranich	kolichest	_
+end
+
+start
+NUM	S	_
+_	_	num	ins/sg	+1	_	kolichest	_	_
+end
+
+start
+PART	S	_
+_	_	part	nom/pl	+1	_	ogranich	_	_
+end
+
+start
+PART	V	_
+_	_	part	strad/strad	+1	_	ogranich	_	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	/pr	+1	-2	kvaziagent	predl	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	+1	vspom	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+ADV	ADV	_
+_	_	adv	adv	+1	+1	vvodn	obst	_
+end
+
+start
+ADV	V	_
+_	_	adv	ipf/ipf	+1	_	obst	_	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	+2	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	nom/pl	pl/pl	+1	_	predic	_	_
+end
+
+start
+PART	NID	_
+_	_	part	nid	+1	-2	ogranich	soch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	-2	opred	predic	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	+2	ogranich	predic	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	-2	ogranich	predic	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	-2	ogranich	predic	_
+end
+
+start
+PART	ADV	_
+_	_	part	adv	+1	+1	ogranich	ogranich	_
+end
+
+start
+ADV	S	_
+_	_	adv	gen/sg	+1	_	ogranich	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	-2	ogranich	1-kompl	_
+end
+
+start
+PART	S	_
+_	_	part	nom/sg	+1	_	ogranich	_	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	SPRO	_
+_	_	part	nom/sg	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	predl	_
+end
+
+start
+PART	V	_
+_	_	part	indic/indic	+1	_	ogranich	_	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	podch-soyuzn	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/pl	+1	-2	kolichest	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	-2	opred	primikat	_
+end
+
+start
+S	A	_
+_	_	dat/sg	a	+1	_	dat-subj	_	_
+end
+
+start
+ADV	V	_
+_	_	adv	v	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	kolichest	1-kompl	_
+end
+
+start
+S	A	_
+_	_	nom/sg	brev/brev	+1	-2	predic	root	_
+end
+
+start
+A	S	_
+_	_	pl/pl	dat/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+S	A	_
+_	_	nom/sg	brev/brev	+1	-2	predic	разъяснит	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	sravn-soyuzn	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+S	PARTCP	_
+_	_	nom/sg	strad/strad	+1	-2	predic	root	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+SPRO	S	_
+_	_	gen/pl	gen/sg	+1	-2	kvaziagent	kvaziagent	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	+2	prolept	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	_	vspom	_	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	+2	prolept	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+1	obst	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	dat/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	_	obst	_	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	_	vspom	_	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	+2	prolept	predic	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	_	opred	_	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	-2	predic	root	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	-2	predic	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	_	prolept	_	_
+end
+
+start
+ADV	PARTCP	_
+_	_	adv	strad/strad	+1	+1	obst	opred	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	nom/sg	+1	_	opred	_	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	_	obst	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	dat/pl	+1	-2	opred	predl	_
+end
+
+start
+S	S	_
+_	_	nom/sg	nom/sg	+1	_	prolept	_	_
+end
+
+start
+ADV	V	_
+_	_	adv	v	+1	-2	obst	1-kompl	_
+end
+
+start
+S	V	_
+_	_	acc/pl	inpraes/inpraes	+1	_	1-kompl	_	_
+end
+
+start
+S	S	_
+_	_	nom/sg	gen/sg	+1	-2	vspom	1-kompl	_
+end
+
+start
+S	V	_
+_	_	nom/pl	inpraes/inpraes	+1	-2	predic	root	_
+end
+
+start
+S	V	_
+_	_	nom/pl	inpraes/inpraes	+1	-2	predic	root	_
+end
+
+start
+NUM	S	_
+_	_	num	ins/sg	+1	-2	opred	2-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	kvaziagent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	-2	opred	sravn-soyuzn	_
+end
+
+start
+S	V	_
+_	_	nom/pl	ipf/ipf	+1	-2	predic	root	_
+end
+
+start
+S	V	_
+_	_	nom/pl	ipf/ipf	+1	-2	predic	root	_
+end
+
+start
+PART	ADV	_
+_	_	part	adv	+1	+1	ogranich	ogranich	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+S	V	_
+_	_	nom/pl	ipf/ipf	+1	-2	predic	root	_
+end
+
+start
+PART	PART	_
+_	_	part	part	+1	+1	ogranich	ogranich	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	_	ogranich	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	pl/pl	+1	-2	ogranich	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	dat/pl	+1	_	opred	_	_
+end
+
+start
+S	V	_
+_	_	nom/pl	strad/strad	+1	-2	predic	root	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	-2	opred	predl	_
+end
+
+start
+PARTCP	S	_
+_	_	strad/strad	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+S	V	_
+_	_	nom/pl	strad/strad	+1	_	predic	_	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	root	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	root	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	-2	ogranich	soch-soyuzn	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	root	_
+end
+
+start
+PART	NUM	_
+_	_	part	num	+1	+2	ogranich	kolichest	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	soch-soyuzn	_
+end
+
+start
+S	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	podch-soyuzn	_
+end
+
+start
+PART	A	_
+_	_	part	pl/pl	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	ins/pl	+1	-2	opred	soch-soyuzn	_
+end
+
+start
+S	V	_
+_	_	nom/sg	ipf/ipf	+1	-2	predic	root	_
+end
+
+start
+S	V	_
+_	_	nom/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+S	V	_
+_	_	nom/sg	strad/strad	+1	-2	predic	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	2-kompl	_
+end
+
+start
+S	V	_
+_	_	nom/sg	strad/strad	+1	-2	predic	root	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	inpraes/inpraes	+1	-2	predic	podch-soyuzn	_
+end
+
+start
+ADV	V	_
+_	_	adv	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	_	opred	_	_
+end
+
+start
+S	V	_
+_	_	nom/sg	strad/strad	+1	_	predic	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+PART	ADV	_
+_	_	part	adv	+1	+1	ogranich	ogranich	_
+end
+
+start
+ADV	A	_
+_	_	adv	pl/pl	+1	+1	ogranich	opred	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	_	opred	_	_
+end
+
+start
+SPRO	S	_
+_	_	gen/pl	nom/sg	+1	_	1-kompl	_	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	/pr	+1	-2	kvaziagent	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	+1	opred	dlitel	_
+end
+
+start
+S	V	_
+_	_	acc/sg	ipf/ipf	+1	_	dlitel	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	ins/sg	+1	+1	1-kompl	присвяз	_
+end
+
+start
+S	V	_
+_	_	ins/sg	indic/indic	+1	_	присвяз	_	_
+end
+
+start
+SPRO	S	_
+_	_	gen/sg	nom/sg	+1	-2	kvaziagent	predic	_
+end
+
+start
+ADV	S	_
+_	_	adv	gen/sg	+1	-2	ogranich	разъяснит	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	predl	_
+end
+
+start
+NUM	S	_
+_	_	num	gen/sg	+1	-2	kolichest	atrib	_
+end
+
+start
+SPRO	V	_
+_	_	acc/sg	ipf/ipf	+1	-2	1-kompl	podch-soyuzn	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+SPRO	V	_
+_	_	dat/sg	indic/indic	+1	_	neakt-kompl	_	_
+end
+
+start
+NUM	S	_
+_	_	num	/sg	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	acc/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+SPRO	V	_
+_	_	gen/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	-2	ogranich	1-kompl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	-2	opred	primikat	_
+end
+
+start
+PART	V	_
+_	_	part	inpraes/inpraes	+1	_	ogranich	_	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	-2	ogranich	3-kompl	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	_	opred	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/pl	inpraes/inpraes	+1	-2	predic	root	_
+end
+
+start
+ADV	A	_
+_	_	adv	brev/brev	+1	_	ogranich	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/pl	inpraes/inpraes	+1	-2	predic	sravn-soyuzn	_
+end
+
+start
+PART	PR	_
+_	_	part	pr	+1	-2	ogranich	1-kompl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	ins/sg	+1	-2	opred	agent	_
+end
+
+start
+SPRO	V	_
+_	_	nom/pl	pl/pl	+1	-2	predic	root	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+PART	V	_
+_	_	part	ipf/ipf	+1	_	ogranich	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	nom/pl	+1	_	opred	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	indic/indic	+1	-2	predic	root	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	pl/pl	dat/pl	+1	-2	opred	1-kompl	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	inpraes/inpraes	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	gen/sg	+1	-2	opred	1-kompl	_
+end
+
+start
+NUM	S	_
+_	_	num	nom/sg	+1	_	opred	_	_
+end
+
+start
+PART	CONJ	_
+_	_	part	conj	+1	_	ogranich	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	ipf/ipf	+1	_	predic	_	_
+end
+
+start
+S	V	_
+_	_	nom/sg	indic/indic	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	sg/sg	acc/sg	+1	_	opred	_	_
+end
+
+start
+SPRO	V	_
+_	_	nom/sg	strad/strad	+1	_	predic	_	_
+end
+
+start
+A	S	_
+_	_	pl/pl	gen/pl	+1	_	opred	_	_
+end
+
+start
+A	S	_
+_	_	pr/pr	/pr	+1	-2	opred	predl	_
+end
+
+start
+A	CONJ	A	PART	_
+_	_	_	_	sg/sg	conj	sg/sg	part	_	-1	-1	-1	_	sochin	soch-soyuzn	ogranich	_
+end
+
+start
+A	CONJ	A	PART	_
+_	_	_	_	sg/sg	conj	sg/sg	part	_	-1	-1	-1	_	sochin	soch-soyuzn	ogranich	_
+end
+
+start
+A	CONJ	A	PART	_
+_	_	_	_	pl/pl	conj	pl/pl	part	_	-1	-1	-1	_	sochin	soch-soyuzn	ogranich	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	pr/pr	conj	pr/pr	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	sg/sg	conj	sg/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	sg/sg	conj	sg/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	sg/sg	conj	sg/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	sg/sg	conj	sg/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+S	PARTCP	PR	_
+_	_	_	acc/sg	strad/strad	pr	_	-1	-1	_	opred	obst	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+A	PR	A	_
+_	_	_	sg/sg	pr	sg/sg	-2	-1	-1	об-копр	atrib	predl	_
+end
+
+start
+A	PR	S	S	S	PARTCP	S	_
+_	_	_	_	_	_	_	pl/pl	pr	gen/sg	gen/sg	gen/sg	inpraes/inpraes	gen/sg	_	-1	-1	-1	-1	+1	-2	_	atrib	predl	vspom	atrib	opred	kvaziagent	_
+end
+
+start
+A	PR	S	S	_
+_	_	_	_	sg/sg	pr	gen/sg	gen/sg	_	-1	-1	-1	_	1-kompl	predl	kvaziagent	_
+end
+
+start
+A	PR	S	_
+_	_	_	sg/sg	pr	/pr	_	-1	-1	_	atrib	predl	_
+end
+
+start
+A	S	_
+_	_	sg/sg	nom/sg	+1	+1	opred	predic	_
+end
+
+start
+V	V	S	S	CONJ	A	S	_
+_	_	_	_	_	_	_	indic/indic	v	gen/pl	gen/sg	conj	pl/pl	gen/pl	_	-1	-1	-1	-1	+1	-2	_	1-kompl	1-kompl	kvaziagent	sochin	opred	soch-soyuzn	_
+end
+
+start
+A	V	A	PR	A	S	_
+_	_	_	_	_	_	brev/brev	ipf/ipf	brev/brev	pr	pl/pl	dat/pl	-2	-1	-1	-1	+1	-2	root	1-kompl	присвяз	1-kompl	opred	predl	_
+end
+
+start
+A	V	S	S	S	PARTCP	S	CONJ	S	S	_
+_	_	_	_	_	_	_	_	_	_	sg/sg	inpraes/inpraes	nom/sg	gen/sg	gen/sg	inpraes/inpraes	ins/sg	conj	gen/sg	gen/sg	_	-1	-1	-1	-1	+1	_	_	-1	-1	_	sent-soch	predic	1-kompl	1-kompl	opred	_	_	soch-soyuzn	1-kompl	_
+end
+
+start
+PR	S	CONJ	V	A	S	_
+_	_	_	_	_	_	pr	gen/sg	conj	v	sg/sg	acc/sg	_	-1	-1	-1	+1	-2	_	predl	eksplet	inf-soyuzn	opred	1-kompl	_
+end
+
+start
+A	V	S	S	S	_
+_	_	_	_	_	brev/brev	ipf/ipf	acc/sg	gen/sg	gen/sg	-2	-1	-1	-1	-1	разъяснит	1-kompl	1-kompl	kvaziagent	1-kompl	_
+end
+
+start
+A	V	S	_
+_	_	_	brev/brev	ipf/ipf	acc/sg	_	-1	-1	_	1-kompl	1-kompl	_
+end
+
+start
+CONJ	V	S	_
+_	_	_	conj	ipf/ipf	acc/sg	-2	-1	-1	sochin	soch-soyuzn	1-kompl	_
+end
+
+start
+A	_
+_	pl/pl	+1	opred	_
+end
+
+start
+A	_
+_	pl/pl	+1	opred	_
+end
+
+start
+A	_
+_	pl/pl	+1	opred	_
+end
+
+start
+A	_
+_	pr/pr	+1	opred	_
+end
+
+start
+PARTCP	PR	S	_
+_	_	_	strad/strad	pr	/pr	_	-1	-1	_	obst	predl	_
+end
+
+start
+A	_
+_	sg/sg	+1	opred	_
+end
+
+start
+A	_
+_	sg/sg	+1	opred	_
+end
+
+start
+ADV	A	_
+_	_	adv	sg/sg	+1	+1	ogranich	opred	_
+end
+
+start
+S	_
+_	nom/sg	+1	predic	_
+end
+
+start
+V	NUM	PR	A	S	PR	_
+_	_	_	_	_	_	indic/indic	num	pr	pl/pl	gen/pl	pr	_	-1	-1	+1	-2	_	_	1-kompl	electiv	opred	predl	_	_
+end
+
+start
+ADV	CONJ	ADV	_
+_	_	_	adv	conj	adv	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+V	ADV	CONJ	S	_
+_	_	_	_	strad/strad	adv	conj	nom/sg	_	-1	-1	-1	_	obst	разъяснит	sravn-soyuzn	_
+end
+
+start
+V	A	CONJ	A	_
+_	_	_	_	strad/strad	sg/sg	conj	sg/sg	_	-1	-1	-1	_	predic	sochin	soch-soyuzn	_
+end
+
+start
+ADV	CONJ	PR	_
+_	_	_	adv	conj	pr	_	-1	-1	_	сравнит	sravn-soyuzn	_
+end
+
+start
+A	_
+_	pr/pr	+1	opred	_
+end
+
+start
+ADV	PR	S	S	S	_
+_	_	_	_	_	adv	pr	ins/sg	gen/sg	gen/sg	_	-1	-1	-1	-1	_	1-kompl	predl	1-kompl	1-kompl	_
+end
+
+start
+ADV	PR	S	S	_
+_	_	_	_	adv	pr	/pr	gen/sg	_	-1	-1	-1	_	primikat	predl	kvaziagent	_
+end
+
+start
+PR	S	PR	S	_
+_	_	_	_	pr	gen/sg	pr	dat/sg	_	-1	-1	-1	_	predl	2-kompl	predl	_
+end
+
+start
+ADV	A	_
+_	_	adv	pl/pl	+1	+1	ogranich	opred	_
+end
+
+start
+S	CONJ	S	PR	S	A	S	_
+_	_	_	_	_	_	_	acc/pl	conj	acc/sg	pr	/pr	pr/pr	dat/sg	_	-1	-1	-1	-1	-1	-1	_	sochin	soch-soyuzn	atrib	predl	opred	1-kompl	_
+end
+
+start
+ADV	PR	S	_
+_	_	_	adv	pr	ins/sg	_	-1	-1	_	1-kompl	predl	_
+end
+
+start
+ADV	V	CONJ	_
+_	_	_	adv	v	conj	-2	-1	-1	root	predic	1-kompl	_
+end
+
+start
+ADV	V	PR	S	S	S	S	_
+_	_	_	_	_	_	_	adv	v	pr	/pr	gen/sg	gen/sg	nom/sg	_	-1	-1	-1	-1	-1	-1	_	predic	obst	predl	1-kompl	kvaziagent	1-kompl	_
+end
+
+start
+ADV	V	S	PR	S	CONJ	_
+_	_	_	_	_	_	adv	v	acc/sg	pr	acc/sg	conj	-1	-1	-1	-1	-1	-1	root	predic	1-kompl	1-kompl	predl	eksplet	_
+end
+
+start
+ADV	_
+_	adv	+1	ogranich	_
+end
+
+start
+ADV	_
+_	adv	+1	ogranich	_
+end
+
+start
+ADV	_
+_	adv	+1	ogranich	_
+end
+
+start
+S	NID	CONJ	NID	ADV	PARTCP	PR	S	A	S	_
+_	_	_	_	_	_	_	_	_	_	nom/sg	nid	conj	nid	adv	praet/praet	pr	/pr	pl/pl	gen/pl	_	-1	-1	-1	+1	_	-1	-1	+1	-2	_	1-kompl	primikat	soch-soyuzn	obst	_	1-kompl	predl	opred	kvaziagent	_
+end
+
+start
+V	S	S	S	A	S	PR	_
+_	_	_	_	_	_	_	indic/indic	acc/sg	gen/sg	gen/sg	pl/pl	gen/pl	pr	_	-1	-1	-1	+1	-2	_	_	1-kompl	1-kompl	1-kompl	opred	1-kompl	_	_
+end
+
+start
+CONJ	V	PR	S	A	S	CONJ	_
+_	_	_	_	_	_	_	conj	inpraes/inpraes	pr	dat/sg	pl/pl	gen/pl	conj	-2	-1	-1	-1	+1	-2	_	obst	podch-soyuzn	1-kompl	predl	opred	1-kompl	_	_
+end
+
+start
+NID	NID	NID	_
+_	_	_	nid	nid	nid	-2	-1	-1	primikat	appoz	appoz	_
+end
+
+start
+NID	NID	NID	_
+_	_	_	nid	nid	nid	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+PR	NUM	PR	S	_
+_	_	_	_	pr	num	pr	gen/pl	_	-1	-1	-1	_	predl	electiv	predl	_
+end
+
+start
+V	S	NID	NID	S	V	S	NUM	_
+_	_	_	_	_	_	_	_	ipf/ipf	acc/pl	nid	nid	nom/pl	ipf/ipf	acc/sg	num	_	-1	-1	-1	+1	_	-1	-1	_	1-kompl	1-kompl	appoz	predic	_	1-kompl	appoz	_
+end
+
+start
+A	_
+_	sg/sg	+1	opred	_
+end
+
+start
+NUM	PR	S	A	S	S	A	CONJ	_
+_	_	_	_	_	_	_	_	num	pr	gen/pl	sg/sg	gen/sg	gen/sg	sg/sg	conj	_	-1	-1	+1	-2	-1	-2	-1	_	electiv	predl	opred	kvaziagent	1-kompl	opred	2-kompl	_
+end
+
+start
+NUM	S	S	PR	S	_
+_	_	_	_	_	num	nom/sg	gen/pl	pr	/pr	-1	-1	-1	-1	-1	root	разъяснит	kvaziagent	atrib	predl	_
+end
+
+start
+S	PR	S	NUM	S	_
+_	_	_	_	_	nom/sg	pr	acc/sg	num	gen/pl	_	-1	-1	+1	-2	_	2-kompl	predl	kolichest	primikat	_
+end
+
+start
+NUM	S	S	S	_
+_	_	_	_	num	nom/sg	gen/sg	nom/sg	-1	-1	-1	-1	root	разъяснит	1-kompl	appoz	_
+end
+
+start
+NUM	_
+_	num	+1	kolichest	_
+end
+
+start
+NUM	_
+_	num	+1	kolichest	_
+end
+
+start
+NUM	_
+_	num	+1	kolichest	_
+end
+
+start
+S	NID	CONJ	NID	_
+_	_	_	_	dat/sg	nid	conj	nid	-2	-1	-1	-1	predl	appoz	sochin	soch-soyuzn	_
+end
+
+start
+PR	S	S	S	S	_
+_	_	_	_	_	pr	gen/sg	gen/sg	gen/sg	gen/sg	_	-1	-1	-1	-1	_	predl	1-kompl	kvaziagent	1-kompl	_
+end
+
+start
+S	PR	S	_
+_	_	_	gen/pl	pr	gen/pl	-2	-1	-1	1-kompl	relyat	predl	_
+end
+
+start
+NUM	_
+_	num	+1	kolichest	_
+end
+
+start
+NUM	_
+_	num	+1	kolichest	_
+end
+
+start
+V	CONJ	V	A	S	V	CONJ	V	PR	S	PR	S	_
+_	_	_	_	_	_	_	_	_	_	_	_	indic/indic	conj	v	pl/pl	acc/pl	v	conj	v	pr	dat/sg	pr	/pr	_	-1	-1	+1	-2	_	-1	-1	-1	-1	-1	-1	_	1-kompl	inf-soyuzn	opred	1-kompl	_	sochin	soch-soyuzn	2-kompl	predl	2-kompl	predl	_
+end
+
+start
+PART	_
+_	part	+1	ogranich	_
+end
+
+start
+V	CONJ	S	ADV	A	_
+_	_	_	_	_	strad/strad	conj	nom/sg	adv	sg/sg	_	-1	-1	+1	-2	_	2-kompl	sravn-soyuzn	ogranich	opred	_
+end
+
+start
+A	_
+_	pr/pr	+1	opred	_
+end
+
+start
+PARTCP	A	PR	S	_
+_	_	_	_	inpraes/inpraes	sg/sg	pr	/pr	_	-1	-1	-1	_	суб-копр	atrib	predl	_
+end
+
+start
+V	S	S	_
+_	_	_	inpraes/inpraes	acc/pl	gen/sg	_	-1	-1	_	1-kompl	kvaziagent	_
+end
+
+start
+PARTCP	PR	S	CONJ	_
+_	_	_	_	strad/strad	pr	ins/sg	conj	-2	-1	-1	-1	root	2-kompl	predl	eksplet	_
+end
+
+start
+V	V	A	PR	A	S	CONJ	S	SPRO	S	_
+_	_	_	_	_	_	_	_	_	_	inpraes/inpraes	ipf/ipf	brev/brev	pr	pl/pl	gen/pl	conj	gen/pl	gen/pl	gen/sg	_	-1	-1	-1	+1	-2	-1	-1	+1	-2	_	1-kompl	присвяз	1-kompl	opred	predl	sochin	soch-soyuzn	kvaziagent	kvaziagent	_
+end
+
+start
+PARTCP	PR	S	_
+_	_	_	inpraes/inpraes	pr	/pr	_	-1	-1	_	obst	predl	_
+end
+
+start
+V	PR	S	S	_
+_	_	_	_	inpraes/inpraes	pr	acc/sg	gen/sg	_	-1	-1	-1	_	obst	predl	kvaziagent	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	acc/sg	conj	acc/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+PARTCP	PR	S	_
+_	_	_	strad/strad	pr	/pr	_	-1	-1	_	obst	predl	_
+end
+
+start
+PARTCP	PR	S	_
+_	_	_	strad/strad	pr	/pr	_	-1	-1	_	obst	predl	_
+end
+
+start
+S	NID	NID	NID	_
+_	_	_	_	nom/sg	nid	nid	nid	_	-1	-1	-1	_	nom-appoz	appoz	appoz	_
+end
+
+start
+NID	NID	NID	NID	_
+_	_	_	_	nid	nid	nid	nid	_	-1	-1	-1	_	appoz	appoz	appoz	_
+end
+
+start
+V	PR	NUM	_
+_	_	_	indic/indic	pr	num	_	-1	-1	_	obst	predl	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	gen/sg	conj	gen/sg	-2	-1	-1	kvaziagent	sochin	soch-soyuzn	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+PARTCP	S	S	S	_
+_	_	_	_	inpraes/inpraes	acc/sg	gen/sg	gen/sg	-2	-1	-1	-1	opred	1-kompl	kvaziagent	1-kompl	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	nom/sg	nom/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+S	S	CONJ	A	S	_
+_	_	_	_	_	nom/sg	nom/sg	conj	pl/pl	nom/pl	_	-1	-1	+1	-2	_	appoz	sochin	opred	soch-soyuzn	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+S	PR	S	_
+_	_	_	/pr	pr	/pr	_	-1	-1	_	1-kompl	predl	_
+end
+
+start
+V	CONJ	V	_
+_	_	_	inpraes/inpraes	conj	inpraes/inpraes	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	gen/sg	gen/sg	_	-1	-1	_	1-kompl	1-kompl	_
+end
+
+start
+PR	NUM	PR	_
+_	_	_	pr	num	pr	_	-1	-1	_	predl	electiv	_
+end
+
+start
+NID	NID	NID	_
+_	_	_	nid	nid	nid	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+PARTCP	PR	S	_
+_	_	_	strad/strad	pr	/pr	_	-1	-1	_	obst	predl	_
+end
+
+start
+PART	_
+_	part	+1	ogranich	_
+end
+
+start
+V	CONJ	S	PR	_
+_	_	_	_	strad/strad	conj	nom/sg	pr	_	-1	-1	-1	_	сравнит	sravn-soyuzn	1-kompl	_
+end
+
+start
+PR	S	CONJ	S	_
+_	_	_	_	pr	/pr	conj	/pr	_	-1	-1	-1	_	predl	sochin	soch-soyuzn	_
+end
+
+start
+PR	S	NID	NID	NID	NID	NID	NID	NID	NID	_
+_	_	_	_	_	_	_	_	_	_	pr	/pr	nid	nid	nid	nid	nid	nid	nid	nid	_	-1	-1	-1	-1	-1	-1	-1	-1	-1	_	predl	nom-appoz	appoz	appoz	appoz	appoz	appoz	appoz	appoz	_
+end
+
+start
+V	S	S	NID	_
+_	_	_	_	ipf/ipf	acc/sg	nom/sg	nid	_	-1	-1	-1	_	1-kompl	1-kompl	primikat	_
+end
+
+start
+ADV	A	_
+_	_	adv	pr/pr	+1	+1	ogranich	opred	_
+end
+
+start
+S	S	S	A	S	_
+_	_	_	_	_	acc/sg	nom/pl	gen/pl	sg/sg	gen/sg	-2	-1	-1	+1	-2	sravn-soyuzn	1-kompl	1-kompl	opred	atrib	_
+end
+
+start
+PR	S	PR	NUM	S	S	_
+_	_	_	_	_	_	pr	/pr	pr	num	ins/pl	gen/sg	_	-1	-1	+1	-2	-1	_	predl	atrib	kolichest	predl	kvaziagent	_
+end
+
+start
+PR	S	S	NUM	PR	SPRO	_
+_	_	_	_	_	_	pr	/pr	gen/sg	num	pr	gen/pl	_	-1	-1	-1	-1	-1	_	predl	1-kompl	1-kompl	electiv	predl	_
+end
+
+start
+PR	S	PR	NUM	S	_
+_	_	_	_	_	pr	gen/sg	pr	num	/sg	_	-1	-1	+1	-2	_	predl	atrib	opred	predl	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	sg/sg	conj	sg/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+PR	S	PR	NUM	_
+_	_	_	_	pr	acc/sg	pr	num	_	-1	-1	-1	_	predl	2-kompl	predl	_
+end
+
+start
+PR	S	PR	S	S	_
+_	_	_	_	_	pr	/pr	pr	gen/sg	gen/sg	_	-1	-1	-1	-1	_	predl	1-kompl	predl	kvaziagent	_
+end
+
+start
+S	S	S	S	CONJ	S	A	S	_
+_	_	_	_	_	_	_	_	nom/pl	nom/pl	nom/pl	nom/pl	conj	nom/pl	pl/pl	nom/pl	-2	-1	-1	-1	-1	-1	+1	_	sochin	sochin	sochin	sochin	sochin	soch-soyuzn	opred	_	_
+end
+
+start
+PR	S	PR	S	_
+_	_	_	_	pr	gen/sg	pr	/pr	-2	-1	-1	-1	obst	predl	1-kompl	predl	_
+end
+
+start
+PR	S	PR	S	_
+_	_	_	_	pr	gen/sg	pr	ins/pl	_	-1	-1	-1	_	predl	atrib	predl	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	nom/sg	nom/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+PR	S	S	A	S	_
+_	_	_	_	_	pr	/pr	gen/sg	pl/pl	gen/pl	_	-1	-1	+1	-2	_	predl	1-kompl	opred	1-kompl	_
+end
+
+start
+V	V	A	_
+_	_	_	inpraes/inpraes	ipf/ipf	sg/sg	_	-1	-1	_	1-kompl	присвяз	_
+end
+
+start
+PR	S	S	A	S	_
+_	_	_	_	_	pr	/pr	gen/sg	pl/pl	gen/pl	_	-1	-1	+1	-2	_	predl	kvaziagent	opred	1-kompl	_
+end
+
+start
+S	PR	S	NUM	S	CONJ	S	PR	SPRO	S	S	_
+_	_	_	_	_	_	_	_	_	_	_	gen/pl	pr	dat/sg	num	nom/sg	conj	gen/sg	pr	gen/pl	acc/pl	gen/sg	_	-1	-1	+1	_	_	-1	-1	+1	-2	_	_	1-kompl	predl	opred	_	_	soch-soyuzn	3-kompl	1-kompl	predl	_	_
+end
+
+start
+S	S	S	_
+_	_	_	acc/sg	gen/pl	gen/sg	-2	-1	-1	predl	kvaziagent	kvaziagent	_
+end
+
+start
+PR	S	S	A	S	_
+_	_	_	_	_	pr	ins/sg	gen/sg	pl/pl	gen/pl	_	-1	-1	+1	-2	_	predl	kvaziagent	opred	kvaziagent	_
+end
+
+start
+PR	S	S	ADV	PR	_
+_	_	_	_	_	pr	/pr	gen/pl	adv	pr	_	-1	-1	+1	_	_	predl	1-kompl	ogranich	_	_
+end
+
+start
+S	PR	S	PR	A	S	_
+_	_	_	_	_	_	/pr	pr	/pr	pr	pr/pr	/pr	_	-1	-1	-1	+1	-2	_	atrib	predl	atrib	opred	predl	_
+end
+
+start
+PR	S	S	CONJ	S	_
+_	_	_	_	_	pr	gen/sg	gen/pl	conj	gen/pl	_	-1	-1	-1	-1	_	predl	1-kompl	sochin	soch-soyuzn	_
+end
+
+start
+V	S	S	A	S	S	PR	S	_
+_	_	_	_	_	_	_	_	strad/strad	nom/sg	nom/sg	sg/sg	gen/sg	gen/pl	pr	gen/sg	_	-1	-1	+1	-2	-1	-1	-1	_	predic	разъяснит	opred	kvaziagent	1-kompl	atrib	predl	_
+end
+
+start
+PR	S	S	NUM	PR	S	S	_
+_	_	_	_	_	_	_	pr	/pr	gen/sg	num	pr	gen/pl	gen/sg	_	-1	-1	-1	-1	-1	-1	_	predl	1-kompl	1-kompl	electiv	predl	kvaziagent	_
+end
+
+start
+A	V	S	_
+_	_	_	a	v	acc/sg	_	-1	-1	_	predic	1-kompl	_
+end
+
+start
+V	S	S	_
+_	_	_	v	acc/sg	gen/sg	_	-1	-1	_	1-kompl	kvaziagent	_
+end
+
+start
+PR	S	S	NUM	S	_
+_	_	_	_	_	pr	/pr	gen/sg	num	nom/sg	_	-1	-1	+1	_	_	predl	1-kompl	opred	_	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	/pr	nom/sg	_	-1	-1	_	predl	nom-appoz	_
+end
+
+start
+V	PR	S	PR	A	S	CONJ	_
+_	_	_	_	_	_	_	strad/strad	pr	ins/sg	pr	pr/pr	/pr	conj	_	-1	-1	-1	+1	-2	_	_	2-kompl	predl	atrib	opred	predl	_	_
+end
+
+start
+S	S	S	S	_
+_	_	_	_	nom/sg	nom/sg	gen/sg	gen/sg	-2	-1	-1	-1	predic	nom-appoz	1-kompl	1-kompl	_
+end
+
+start
+PR	S	S	S	A	S	PR	S	_
+_	_	_	_	_	_	_	_	pr	/pr	gen/sg	gen/sg	pl/pl	gen/pl	pr	acc/sg	_	-1	-1	-1	+1	-2	_	-1	_	predl	1-kompl	1-kompl	opred	1-kompl	_	predl	_
+end
+
+start
+S	_
+_	nom/sg	+1	predic	_
+end
+
+start
+PR	S	S	S	S	S	S	S	S	S	_
+_	_	_	_	_	_	_	_	_	_	pr	/pr	gen/sg	gen/sg	gen/sg	nom/sg	gen/sg	gen/sg	gen/sg	gen/sg	_	-1	-1	-1	-1	-1	-1	-1	+1	_	_	predl	kvaziagent	sochin	sochin	primikat	kvaziagent	kratn	vspom	_	_
+end
+
+start
+PR	S	S	S	S	_
+_	_	_	_	_	pr	gen/sg	gen/sg	gen/sg	gen/sg	_	-1	-1	-1	-1	_	predl	1-kompl	kvaziagent	1-kompl	_
+end
+
+start
+PR	S	S	S	_
+_	_	_	_	pr	/pr	gen/pl	gen/sg	_	-1	-1	-1	_	predl	kvaziagent	kvaziagent	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	/pr	gen/pl	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	ins/pl	conj	ins/pl	-2	-1	-1	predl	sochin	soch-soyuzn	_
+end
+
+start
+PR	S	PR	S	S	_
+_	_	_	_	_	pr	ins/pl	pr	gen/pl	gen/sg	_	-1	-1	-1	-1	_	predl	atrib	predl	kvaziagent	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	/pr	gen/pl	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+V	S	PR	S	S	_
+_	_	_	_	_	strad/strad	nom/pl	pr	dat/sg	gen/sg	_	-1	-1	-1	-1	_	predic	2-kompl	predl	1-kompl	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	pl/pl	conj	pl/pl	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+PR	S	PR	PARTCP	S	_
+_	_	_	_	_	pr	gen/pl	pr	strad/strad	/pr	_	-1	-1	+1	-2	_	predl	atrib	opred	predl	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	/pr	gen/pl	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+V	S	S	PR	S	PR	S	_
+_	_	_	_	_	_	_	inpraes/inpraes	nom/sg	gen/sg	pr	acc/sg	pr	/pr	_	-1	-1	-1	-1	-1	-1	_	predic	1-kompl	2-kompl	predl	atrib	predl	_
+end
+
+start
+V	PR	S	_
+_	_	_	inpraes/inpraes	pr	/pr	_	-1	-1	_	obst	predl	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	/pr	gen/sg	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+S	S	S	A	PR	S	S	_
+_	_	_	_	_	_	_	nom/sg	gen/sg	gen/pl	pl/pl	pr	gen/sg	gen/sg	-2	-1	-1	-1	-1	-1	-1	predic	kvaziagent	kvaziagent	opred	1-kompl	predl	1-kompl	_
+end
+
+start
+ADV	_
+_	adv	+1	ogranich	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	/pr	ins/sg	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	acc/pl	gen/sg	_	-1	-1	_	predl	kvaziagent	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	acc/sg	dat/sg	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/sg	pr	/pr	_	-1	-1	_	atrib	predl	_
+end
+
+start
+S	PR	SPRO	_
+_	_	_	acc/pl	pr	dat/sg	_	-1	-1	_	1-kompl	predl	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	acc/sg	gen/sg	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+S	S	S	CONJ	S	ADV	PARTCP	S	_
+_	_	_	_	_	_	_	_	nom/sg	gen/pl	gen/pl	conj	gen/pl	adv	strad/strad	ins/pl	-2	-1	-1	-1	-1	+1	-2	-1	predic	kvaziagent	kvaziagent	sochin	soch-soyuzn	ogranich	primikat	2-kompl	_
+end
+
+start
+V	S	PR	S	_
+_	_	_	_	ipf/ipf	acc/sg	pr	gen/pl	_	-1	-1	-1	_	1-kompl	2-kompl	predl	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	gen/sg	gen/sg	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	gen/sg	gen/sg	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	gen/sg	gen/sg	_	-1	-1	_	predl	kvaziagent	_
+end
+
+start
+V	PR	S	S	_
+_	_	_	_	indic/indic	pr	/pr	gen/sg	_	-1	-1	-1	_	obst	predl	kvaziagent	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	gen/sg	nom/sg	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+V	S	S	_
+_	_	_	strad/strad	nom/sg	nom/sg	_	-1	-1	_	predic	1-kompl	_
+end
+
+start
+PR	S	S	PR	S	S	_
+_	_	_	_	_	_	pr	gen/sg	gen/sg	pr	/pr	gen/pl	_	-1	-1	-1	-1	-1	_	predl	1-kompl	atrib	predl	kvaziagent	_
+end
+
+start
+A	_
+_	sg/sg	+1	opred	_
+end
+
+start
+S	CONJ	S	PARTCP	A	_
+_	_	_	_	_	nom/pl	conj	nom/pl	praet/praet	pl/pl	_	-1	-1	-1	-1	_	sochin	soch-soyuzn	opred	присвяз	_
+end
+
+start
+PR	S	S	S	_
+_	_	_	_	pr	gen/sg	gen/sg	gen/pl	-2	-1	-1	-1	obst	predl	1-kompl	kvaziagent	_
+end
+
+start
+V	V	PR	A	S	ADV	CONJ	ADV	_
+_	_	_	_	_	_	_	_	inpraes/inpraes	strad/strad	pr	pr/pr	/pr	adv	conj	adv	_	-1	-1	+1	-2	_	-1	-1	_	1-kompl	obst	opred	predl	_	sochin	soch-soyuzn	_
+end
+
+start
+S	CONJ	S	S	PR	SPRO	_
+_	_	_	_	_	_	gen/pl	conj	gen/pl	gen/pl	pr	ins/pl	-2	-1	-1	-1	-1	-1	1-kompl	sochin	soch-soyuzn	kvaziagent	atrib	predl	_
+end
+
+start
+S	CONJ	S	S	S	S	_
+_	_	_	_	_	_	gen/sg	conj	gen/sg	gen/sg	gen/sg	gen/sg	-2	-1	-1	-1	-1	-1	1-kompl	сравнит	sravn-soyuzn	1-kompl	1-kompl	1-kompl	_
+end
+
+start
+S	CONJ	S	S	_
+_	_	_	_	acc/pl	conj	nom/sg	gen/sg	-2	-1	-1	-1	1-kompl	сравнит	sravn-soyuzn	kvaziagent	_
+end
+
+start
+A	PR	S	S	_
+_	_	_	_	sg/sg	pr	dat/sg	gen/sg	-2	-1	-1	-1	primikat	sochin	predl	kvaziagent	_
+end
+
+start
+S	CONJ	S	S	_
+_	_	_	_	nom/pl	conj	nom/pl	gen/pl	_	-1	-1	-1	_	sochin	soch-soyuzn	1-kompl	_
+end
+
+start
+S	S	S	NUM	S	_
+_	_	_	_	_	acc/sg	gen/sg	gen/sg	num	gen/pl	_	-1	-1	+1	_	_	kvaziagent	appoz	kolichest	_	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	gen/pl	conj	gen/pl	-2	-1	-1	1-kompl	sochin	soch-soyuzn	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	gen/pl	conj	gen/pl	-2	-1	-1	predl	sochin	soch-soyuzn	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	gen/pl	conj	gen/sg	-2	-1	-1	predl	sochin	soch-soyuzn	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	gen/sg	conj	gen/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+S	S	S	_
+_	_	_	gen/sg	gen/sg	gen/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+S	S	S	_
+_	_	_	gen/sg	gen/sg	gen/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	nom/sg	conj	nom/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+V	S	PR	S	_
+_	_	_	_	indic/indic	acc/sg	pr	dat/sg	_	-1	-1	-1	_	1-kompl	1-kompl	predl	_
+end
+
+start
+S	PR	S	PR	_
+_	_	_	_	ins/sg	pr	dat/pl	pr	-2	-1	-1	-1	присвяз	1-kompl	predl	atrib	_
+end
+
+start
+S	NID	NID	NID	NID	_
+_	_	_	_	_	acc/sg	nid	nid	nid	nid	-2	-1	-1	-1	-1	1-kompl	kompl-appoz	appoz	appoz	appoz	_
+end
+
+start
+S	NID	NID	_
+_	_	_	gen/sg	nid	nid	-2	-1	-1	1-kompl	primikat	appoz	_
+end
+
+start
+S	NID	NID	_
+_	_	_	nom/sg	nid	nid	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+V	PR	S	S	S	PR	_
+_	_	_	_	_	_	strad/strad	pr	dat/pl	gen/sg	gen/pl	pr	_	-1	-1	-1	-1	-1	_	2-kompl	predl	1-kompl	1-kompl	atrib	_
+end
+
+start
+A	_
+_	pl/pl	+1	opred	_
+end
+
+start
+S	NID	NID	_
+_	_	_	nom/sg	nid	nid	_	-1	-1	_	primikat	appoz	_
+end
+
+start
+S	PARTCP	ADV	CONJ	ADV	S	CONJ	_
+_	_	_	_	_	_	_	nom/sg	strad/strad	adv	conj	adv	nom/sg	conj	_	-1	-1	-1	-1	_	_	_	opred	obst	sochin	soch-soyuzn	_	_	_
+end
+
+start
+S	PARTCP	PR	S	_
+_	_	_	_	nom/pl	strad/strad	pr	/pr	_	-1	-1	-1	_	opred	obst	predl	_
+end
+
+start
+V	PR	S	PARTCP	PR	_
+_	_	_	_	_	strad/strad	pr	ins/pl	strad/strad	pr	_	-1	-1	-1	-1	_	obst	predl	opred	obst	_
+end
+
+start
+PARTCP	CONJ	PARTCP	_
+_	_	_	strad/strad	conj	strad/strad	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+S	PARTCP	PR	S	_
+_	_	_	_	nom/pl	strad/strad	pr	gen/sg	-2	-1	-1	-1	predic	opred	3-kompl	predl	_
+end
+
+start
+S	PARTCP	PR	_
+_	_	_	acc/sg	inpraes/inpraes	pr	-2	-1	-1	1-kompl	opred	1-kompl	_
+end
+
+start
+S	PR	NUM	PR	A	S	S	S	NID	NID	_
+_	_	_	_	_	_	_	_	_	_	nom/sg	pr	num	pr	pr/pr	gen/pl	gen/pl	acc/sg	nid	nid	-2	-1	-1	-1	+1	-2	-1	_	_	-1	разъяснит	2-kompl	predl	electiv	opred	predl	atrib	_	_	appoz	_
+end
+
+start
+S	PR	S	A	S	CONJ	S	_
+_	_	_	_	_	_	_	nom/sg	pr	dat/pl	sg/sg	gen/sg	conj	gen/sg	_	-1	-1	+1	-2	-1	-1	_	2-kompl	predl	opred	1-kompl	sochin	soch-soyuzn	_
+end
+
+start
+V	PR	S	PARTCP	A	S	S	S	S	_
+_	_	_	_	_	_	_	_	_	inpraes/inpraes	pr	gen/pl	inpraes/inpraes	pl/pl	acc/pl	acc/sg	gen/sg	gen/sg	_	-1	-1	-1	+1	-2	_	-1	-1	_	obst	predl	opred	opred	1-kompl	_	1-kompl	1-kompl	_
+end
+
+start
+S	PR	S	A	S	S	PR	_
+_	_	_	_	_	_	_	gen/pl	pr	gen/sg	sg/sg	gen/sg	gen/sg	pr	-2	-1	-1	+1	-2	-1	-2	predl	atrib	predl	opred	kvaziagent	1-kompl	atrib	_
+end
+
+start
+S	PR	S	A	S	_
+_	_	_	_	_	/pr	pr	/pr	pl/pl	gen/pl	_	-1	-1	+1	-2	_	1-kompl	predl	opred	1-kompl	_
+end
+
+start
+V	S	S	PARTCP	_
+_	_	_	_	indic/indic	nom/sg	gen/pl	inpraes/inpraes	_	-1	-1	-1	_	predic	kvaziagent	opred	_
+end
+
+start
+S	PR	S	PR	A	S	_
+_	_	_	_	_	_	nom/sg	pr	/pr	pr	pr/pr	/pr	_	-1	-1	-1	+1	-2	_	obst	predl	atrib	opred	predl	_
+end
+
+start
+S	S	PARTCP	PR	S	A	S	_
+_	_	_	_	_	_	_	gen/sg	gen/pl	inpraes/inpraes	pr	dat/sg	pl/pl	gen/pl	_	-1	-1	-1	-1	+1	-2	_	kvaziagent	opred	3-kompl	predl	opred	1-kompl	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/sg	pr	ins/sg	_	-1	-1	_	atrib	predl	_
+end
+
+start
+S	PR	S	S	A	S	PR	S	S	PR	S	S	_
+_	_	_	_	_	_	_	_	_	_	_	_	nom/sg	pr	acc/pl	gen/sg	sg/sg	nom/sg	pr	/pr	nom/sg	pr	dat/pl	gen/pl	_	-1	-1	-1	+1	-2	_	-1	_	-1	-1	-1	_	2-kompl	predl	atrib	opred	appoz	_	predl	_	1-kompl	predl	kvaziagent	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	gen/pl	conj	gen/pl	-2	-1	-1	kvaziagent	sochin	soch-soyuzn	_
+end
+
+start
+PR	S	S	S	_
+_	_	_	_	pr	ins/sg	gen/sg	gen/sg	_	-1	-1	-1	_	predl	kvaziagent	appoz	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	ins/sg	gen/pl	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+CONJ	S	PR	A	S	_
+_	_	_	_	_	conj	ins/pl	pr	pl/pl	acc/pl	-2	-1	-1	+1	-2	sochin	soch-soyuzn	2-kompl	opred	predl	_
+end
+
+start
+S	PR	S	S	CONJ	S	_
+_	_	_	_	_	_	/pr	pr	dat/pl	gen/sg	conj	gen/sg	-2	-1	-1	-1	-1	-1	predl	2-kompl	predl	1-kompl	sochin	soch-soyuzn	_
+end
+
+start
+V	S	S	_
+_	_	_	inpraes/inpraes	nom/sg	gen/sg	_	-1	-1	_	predic	1-kompl	_
+end
+
+start
+A	V	SPRO	_
+_	_	_	sg/sg	v	dat/sg	-2	-1	-1	op-opred	1-kompl	1-kompl	_
+end
+
+start
+S	PR	S	S	PART	S	_
+_	_	_	_	_	_	nom/sg	pr	gen/sg	gen/sg	part	gen/sg	_	-1	-1	-1	+1	-2	_	sochin	predl	kvaziagent	vspom	appoz	_
+end
+
+start
+S	S	PARTCP	S	S	S	_
+_	_	_	_	_	_	nom/sg	gen/pl	inpraes/inpraes	acc/sg	gen/pl	gen/sg	_	-1	-1	-1	-1	-1	_	kvaziagent	opred	1-kompl	kvaziagent	kvaziagent	_
+end
+
+start
+PR	S	S	S	S	_
+_	_	_	_	_	pr	gen/sg	gen/sg	gen/sg	gen/sg	_	-1	-1	-1	-1	_	predl	1-kompl	kvaziagent	1-kompl	_
+end
+
+start
+S	PR	S	S	S	_
+_	_	_	_	_	ins/sg	pr	/pr	gen/sg	gen/pl	-2	-1	-1	-1	-1	2-kompl	atrib	predl	kvaziagent	1-kompl	_
+end
+
+start
+CONJ	S	S	_
+_	_	_	conj	/pr	gen/pl	_	-1	-1	_	soch-soyuzn	1-kompl	_
+end
+
+start
+S	PR	S	S	_
+_	_	_	_	nom/pl	pr	/pr	gen/sg	-2	-1	-1	-1	разъяснит	atrib	predl	atrib	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/pl	gen/pl	gen/pl	-2	-1	-1	soch-soyuzn	atrib	atrib	_
+end
+
+start
+S	PR	S	S	_
+_	_	_	_	nom/pl	pr	acc/sg	gen/sg	-2	-1	-1	-1	predic	primikat	predl	kvaziagent	_
+end
+
+start
+S	PR	S	S	_
+_	_	_	_	nom/pl	pr	dat/sg	gen/sg	_	-1	-1	-1	_	1-kompl	predl	1-kompl	_
+end
+
+start
+S	PR	S	S	_
+_	_	_	_	nom/sg	pr	acc/sg	gen/sg	-2	-1	-1	-1	разъяснит	2-kompl	predl	kvaziagent	_
+end
+
+start
+S	PR	S	S	_
+_	_	_	_	nom/sg	pr	ins/sg	gen/sg	_	-1	-1	-1	_	atrib	predl	kvaziagent	_
+end
+
+start
+S	PR	S	_
+_	_	_	/pr	pr	ins/sg	_	-1	-1	_	atrib	predl	_
+end
+
+start
+PR	S	S	_
+_	_	_	pr	/pr	gen/pl	_	-1	-1	_	predl	1-kompl	_
+end
+
+start
+PR	S	CONJ	A	S	_
+_	_	_	_	_	pr	gen/pl	conj	pl/pl	gen/pl	-2	-1	-1	+1	-2	atrib	predl	sochin	opred	soch-soyuzn	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/pl	pr	acc/pl	_	-1	-1	_	atrib	predl	_
+end
+
+start
+A	PR	S	_
+_	_	_	pl/pl	pr	dat/sg	_	-1	-1	_	1-kompl	predl	_
+end
+
+start
+S	S	PR	S	_
+_	_	_	_	gen/sg	gen/pl	pr	acc/pl	-2	-1	-1	-1	1-kompl	1-kompl	atrib	predl	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/pl	pr	dat/sg	-1	-1	-1	root	2-kompl	predl	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/pl	pr	dat/sg	-1	-1	-1	root	2-kompl	predl	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/pl	pr	dat/sg	_	-1	-1	_	2-kompl	predl	_
+end
+
+start
+V	PR	S	S	CONJ	S	S	_
+_	_	_	_	_	_	_	strad/strad	pr	ins/pl	gen/pl	conj	gen/sg	gen/pl	_	-1	-1	-1	-1	-1	-1	_	obst	predl	kvaziagent	sochin	soch-soyuzn	1-kompl	_
+end
+
+start
+S	A	PR	S	PR	NUM	S	PR	S	S	_
+_	_	_	_	_	_	_	_	_	_	/pr	pr/pr	pr	acc/pl	pr	num	gen/pl	pr	ins/sg	gen/sg	-2	-1	-1	-1	-1	+1	-2	-1	-1	-1	predl	разъяснит	primikat	predl	atrib	kolichest	predl	atrib	predl	kvaziagent	_
+end
+
+start
+A	PR	S	PR	NUM	S	PR	S	S	_
+_	_	_	_	_	_	_	_	_	pr/pr	pr	acc/pl	pr	num	gen/pl	pr	ins/sg	gen/sg	_	-1	-1	-1	+1	-2	-1	-1	-1	_	primikat	predl	atrib	kolichest	predl	atrib	predl	kvaziagent	_
+end
+
+start
+A	PR	S	A	NUM	S	PR	S	S	A	A	_
+_	_	_	_	_	_	_	_	_	_	_	pr/pr	pr	acc/pl	a	num	gen/pl	pr	ins/sg	gen/sg	a	pr/pr	_	-1	-1	-1	+1	-2	-1	-1	-1	+1	_	_	primikat	predl	atrib	kolichest	сравнит	atrib	predl	kvaziagent	kompoz	_	_
+end
+
+start
+A	S	S	_
+_	_	_	pr/pr	/pr	gen/pl	-2	-1	-1	sochin	sochin	1-kompl	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/sg	pr	/pr	_	-1	-1	_	atrib	predl	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	sg/sg	conj	sg/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/sg	pr	acc/sg	_	-1	-1	_	3-kompl	predl	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/sg	pr	gen/sg	_	-1	-1	_	atrib	predl	_
+end
+
+start
+A	_
+_	pl/pl	+1	opred	_
+end
+
+start
+S	PR	SPRO	_
+_	_	_	acc/sg	pr	gen/pl	_	-1	-1	_	atrib	predl	_
+end
+
+start
+S	PR	SPRO	_
+_	_	_	nom/pl	pr	ins/sg	_	-1	-1	_	1-kompl	predl	_
+end
+
+start
+S	S	CONJ	A	S	S	S	_
+_	_	_	_	_	_	_	nom/sg	gen/pl	conj	pl/pl	gen/pl	gen/sg	gen/pl	_	-1	-1	+1	-2	_	-1	_	1-kompl	sochin	opred	soch-soyuzn	_	kvaziagent	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	nom/sg	nom/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+V	PR	S	_
+_	_	_	inpraes/inpraes	pr	gen/sg	_	-1	-1	_	1-kompl	predl	_
+end
+
+start
+V	S	S	PR	S	_
+_	_	_	_	_	indic/indic	acc/sg	gen/pl	pr	/pr	_	-1	-1	-1	-1	_	1-kompl	kvaziagent	atrib	predl	_
+end
+
+start
+S	PR	S	NUM	S	_
+_	_	_	_	_	acc/sg	pr	acc/sg	num	gen/pl	_	-1	-1	+1	-2	_	2-kompl	predl	kolichest	primikat	_
+end
+
+start
+S	S	CONJ	A	S	_
+_	_	_	_	_	nom/sg	gen/sg	conj	sg/sg	gen/sg	-2	-1	-1	+1	-2	root	kvaziagent	sochin	opred	soch-soyuzn	_
+end
+
+start
+S	S	CONJ	S	_
+_	_	_	_	nom/sg	nom/sg	conj	nom/sg	_	-1	-1	-1	_	appoz	primikat	soch-soyuzn	_
+end
+
+start
+S	S	PARTCP	A	SPRO	PR	_
+_	_	_	_	_	_	nom/pl	nom/pl	inpraes/inpraes	pl/pl	acc/sg	pr	-2	-1	-1	-1	-2	_	predic	primikat	opred	суб-копр	1-kompl	_	_
+end
+
+start
+CONJ	PART	V	PARTCP	_
+_	_	_	_	conj	part	inpraes/inpraes	strad/strad	-2	+1	-2	-1	eksplet	ogranich	podch-soyuzn	pass-anal	_
+end
+
+start
+S	S	PARTCP	PR	_
+_	_	_	_	nom/sg	gen/pl	strad/strad	pr	_	-1	-1	-1	_	kvaziagent	opred	obst	_
+end
+
+start
+PARTCP	_
+_	strad/strad	+1	opred	_
+end
+
+start
+V	PR	S	PARTCP	S	_
+_	_	_	_	_	inpraes/inpraes	pr	dat/sg	strad/strad	gen/sg	_	-1	-1	+1	-2	_	1-kompl	predl	opred	1-kompl	_
+end
+
+start
+S	S	PR	A	S	_
+_	_	_	_	_	acc/pl	gen/pl	pr	pr/pr	/pr	_	-1	-1	+1	-2	_	kvaziagent	2-kompl	opred	predl	_
+end
+
+start
+CONJ	S	A	_
+_	_	_	conj	nom/sg	sg/sg	_	-1	-1	_	sravn-soyuzn	opred	_
+end
+
+start
+S	S	PR	S	_
+_	_	_	_	/pr	nom/sg	pr	/pr	_	-1	-1	-1	_	nom-appoz	1-kompl	predl	_
+end
+
+start
+S	S	S	NID	NID	NUM	S	PR	S	S	_
+_	_	_	_	_	_	_	_	_	_	nom/sg	gen/sg	nom/sg	nid	nid	num	gen/pl	pr	/pr	nom/sg	-2	-1	-1	-1	-1	+1	_	_	-1	-1	разъяснит	1-kompl	appoz	primikat	appoz	kolichest	_	_	predl	appoz	_
+end
+
+start
+S	S	S	NUM	S	_
+_	_	_	_	_	nom/sg	nom/sg	gen/sg	num	gen/sg	_	-1	-1	+1	_	_	appoz	atrib	opred	_	_
+end
+
+start
+V	S	PR	S	_
+_	_	_	_	ipf/ipf	acc/sg	pr	acc/sg	_	-1	-1	-1	_	1-kompl	1-kompl	predl	_
+end
+
+start
+S	S	S	NUM	S	_
+_	_	_	_	_	nom/sg	nom/sg	gen/sg	num	gen/sg	_	-1	-1	+1	_	_	appoz	atrib	opred	_	_
+end
+
+start
+V	PR	S	A	S	_
+_	_	_	_	_	ipf/ipf	pr	/pr	sg/sg	ins/sg	_	-1	-1	+1	-2	_	1-kompl	predl	opred	1-kompl	_
+end
+
+start
+PARTCP	PR	S	S	PR	A	S	S	_
+_	_	_	_	_	_	_	_	praet/praet	pr	/pr	gen/pl	pr	sg/sg	gen/sg	gen/sg	_	-1	-1	-1	-1	+1	-2	-1	_	1-kompl	predl	1-kompl	atrib	opred	predl	kvaziagent	_
+end
+
+start
+S	S	S	S	V	PR	S	ADV	PR	S	S	S	PARTCP	S	S	_
+_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	gen/sg	gen/sg	gen/sg	nom/sg	ipf/ipf	pr	acc/sg	adv	pr	ins/sg	ins/sg	ins/sg	praet/praet	acc/sg	nom/sg	-2	-1	-1	+1	_	-1	-1	-1	-1	-1	+1	-2	_	-1	-1	kvaziagent	appoz	appoz	predic	_	1-kompl	predl	atrib	1-kompl	predl	vspom	appoz	_	1-kompl	appoz	_
+end
+
+start
+S	S	S	S	_
+_	_	_	_	nom/pl	gen/sg	gen/pl	gen/sg	_	-1	-1	-1	_	kvaziagent	1-kompl	kvaziagent	_
+end
+
+start
+S	S	S	_
+_	_	_	/pr	gen/pl	gen/pl	_	-1	-1	_	kvaziagent	appoz	_
+end
+
+start
+S	S	S	_
+_	_	_	acc/pl	acc/pl	acc/pl	-2	-1	-1	1-kompl	sochin	sochin	_
+end
+
+start
+S	S	S	_
+_	_	_	acc/sg	gen/sg	ins/sg	-2	-1	-1	1-kompl	kvaziagent	1-kompl	_
+end
+
+start
+S	PR	S	_
+_	_	_	acc/sg	pr	gen/sg	-2	-1	-1	soch-soyuzn	1-kompl	predl	_
+end
+
+start
+S	S	S	_
+_	_	_	acc/pl	nom/sg	gen/sg	_	-1	-1	_	appoz	atrib	_
+end
+
+start
+NUM	CONJ	NUM	_
+_	_	_	num	conj	num	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+S	S	S	_
+_	_	_	gen/sg	gen/sg	gen/sg	-2	-1	-1	kvaziagent	sochin	sochin	_
+end
+
+start
+S	PR	S	_
+_	_	_	nom/sg	pr	dat/sg	_	-1	-1	_	1-kompl	predl	_
+end
+
+start
+V	CONJ	PR	NUM	PR	S	S	_
+_	_	_	_	_	_	_	ipf/ipf	conj	pr	num	pr	gen/pl	gen/sg	_	-1	-1	-1	-1	-1	-1	_	присвяз	sravn-soyuzn	predl	electiv	predl	kvaziagent	_
+end
+
+start
+S	S	S	_
+_	_	_	gen/sg	gen/sg	nom/sg	_	-1	-1	_	1-kompl	nom-appoz	_
+end
+
+start
+S	S	S	_
+_	_	_	ins/sg	gen/sg	gen/sg	-2	-1	-1	2-kompl	1-kompl	kvaziagent	_
+end
+
+start
+S	S	CONJ	S	_
+_	_	_	_	ins/sg	gen/sg	conj	gen/sg	_	-1	-1	-1	_	1-kompl	sochin	soch-soyuzn	_
+end
+
+start
+S	CONJ	S	_
+_	_	_	acc/pl	conj	acc/pl	-2	-1	-1	1-kompl	sochin	soch-soyuzn	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	gen/pl	gen/sg	-2	-1	-1	predic	1-kompl	kvaziagent	_
+end
+
+start
+V	PARTCP	S	S	S	_
+_	_	_	_	_	ipf/ipf	strad/strad	ins/sg	gen/sg	gen/sg	_	-1	-1	+1	-2	_	pass-anal	agent	vspom	atrib	_
+end
+
+start
+V	PARTCP	S	S	S	_
+_	_	_	_	_	ipf/ipf	strad/strad	ins/sg	gen/sg	gen/sg	_	-1	-1	+1	-2	_	pass-anal	agent	vspom	atrib	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	gen/sg	gen/pl	_	-1	-1	_	1-kompl	kvaziagent	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	gen/sg	gen/sg	-2	-1	-1	predic	kvaziagent	1-kompl	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	gen/sg	gen/sg	_	-1	-1	_	1-kompl	1-kompl	_
+end
+
+start
+V	PR	S	S	S	PR	S	_
+_	_	_	_	_	_	_	ipf/ipf	pr	/pr	ins/sg	gen/pl	pr	acc/pl	_	-1	-1	-1	-1	-1	-1	_	3-kompl	predl	1-kompl	1-kompl	2-kompl	predl	_
+end
+
+start
+ADV	S	PR	SPRO	A	S	S	_
+_	_	_	_	_	_	_	adv	acc/pl	pr	dat/pl	sg/sg	gen/sg	gen/sg	_	-1	-1	-1	+1	_	-1	_	1-kompl	3-kompl	predl	opred	_	kvaziagent	_
+end
+
+start
+V	PR	S	A	S	S	_
+_	_	_	_	_	_	ipf/ipf	pr	/pr	sg/sg	ins/sg	gen/pl	_	-1	-1	+1	-2	-1	_	3-kompl	predl	opred	1-kompl	1-kompl	_
+end
+
+start
+S	PR	S	S	_
+_	_	_	_	/pr	pr	/pr	gen/pl	_	-1	-1	-1	_	1-kompl	predl	1-kompl	_
+end
+
+start
+S	PR	S	A	S	_
+_	_	_	_	_	/pr	pr	acc/sg	sg/sg	gen/sg	_	-1	-1	+1	-2	_	2-kompl	predl	opred	1-kompl	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	nom/sg	nom/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	nom/sg	nom/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+PR	S	S	S	NUM	S	_
+_	_	_	_	_	_	pr	/pr	nom/sg	gen/sg	num	nom/sg	_	-1	-1	-1	+1	_	_	predl	nom-appoz	kvaziagent	opred	_	_
+end
+
+start
+NID	NID	NID	_
+_	_	_	nid	nid	nid	-2	-1	-1	primikat	appoz	appoz	_
+end
+
+start
+V	V	S	PARTCP	PR	A	S	S	_
+_	_	_	_	_	_	_	_	inpraes/inpraes	v	gen/pl	praet/praet	pr	pr/pr	/pr	dat/sg	_	-1	-1	-1	-1	+1	-2	_	_	1-kompl	1-kompl	opred	obst	opred	predl	_	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	nom/sg	nom/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+PR	S	S	S	S	_
+_	_	_	_	_	pr	acc/sg	gen/pl	gen/sg	gen/sg	_	-1	-1	-1	-1	_	predl	kvaziagent	atrib	appoz	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	nom/sg	nom/sg	_	-1	-1	_	appoz	appoz	_
+end
+
+start
+S	NID	NID	_
+_	_	_	acc/sg	nid	nid	-2	-1	-1	1-kompl	nom-appoz	appoz	_
+end
+
+start
+V	S	PR	A	S	CONJ	_
+_	_	_	_	_	_	ipf/ipf	acc/pl	pr	pl/pl	ins/pl	conj	_	-1	-1	+1	-2	_	_	1-kompl	atrib	opred	predl	_	_
+end
+
+start
+S	V	ADV	_
+_	_	_	gen/sg	ipf/ipf	adv	-2	-1	-1	разъяснит	1-kompl	obst	_
+end
+
+start
+A	CONJ	A	PART	_
+_	_	_	_	sg/sg	conj	sg/sg	part	_	-1	-1	-1	_	sochin	soch-soyuzn	ogranich	_
+end
+
+start
+S	_
+_	acc/sg	+1	dlitel	_
+end
+
+start
+S	_
+_	gen/pl	+1	predic	_
+end
+
+start
+S	_
+_	gen/sg	+1	predic	_
+end
+
+start
+S	S	S	_
+_	_	_	gen/pl	nom/sg	gen/sg	-2	-1	-1	1-kompl	appoz	atrib	_
+end
+
+start
+CONJ	A	S	_
+_	_	_	conj	sg/sg	nom/sg	-2	-1	-1	sochin	soch-soyuzn	primikat	_
+end
+
+start
+S	PR	S	S	CONJ	S	_
+_	_	_	_	_	_	gen/pl	pr	dat/pl	gen/sg	conj	gen/sg	_	-1	-1	-1	-1	-1	_	2-kompl	predl	1-kompl	sochin	soch-soyuzn	_
+end
+
+start
+S	_
+_	ins/sg	+1	присвяз	_
+end
+
+start
+S	_
+_	ins/sg	_	_	_
+end
+
+start
+S	PR	S	NID	S	V	SPRO	_
+_	_	_	_	_	_	_	ins/sg	pr	dat/sg	nid	nom/sg	indic/indic	dat/sg	_	-1	-1	-1	+1	_	-1	_	atrib	predl	kompl-appoz	predic	_	2-kompl	_
+end
+
+start
+S	_
+_	nom/pl	+1	predic	_
+end
+
+start
+PR	S	S	S	_
+_	_	_	_	pr	gen/sg	gen/sg	gen/pl	-2	-1	-1	-1	obst	predl	1-kompl	kvaziagent	_
+end
+
+start
+S	_
+_	nom/pl	+1	predic	_
+end
+
+start
+V	PR	S	S	S	_
+_	_	_	_	_	pl/pl	pr	acc/sg	gen/pl	gen/sg	_	-1	-1	-1	-1	_	2-kompl	predl	kvaziagent	atrib	_
+end
+
+start
+S	_
+_	nom/sg	+1	predic	_
+end
+
+start
+S	_
+_	nom/sg	+1	predic	_
+end
+
+start
+S	_
+_	nom/sg	+1	predic	_
+end
+
+start
+S	_
+_	nom/sg	+1	predic	_
+end
+
+start
+ADV	_
+_	adv	+1	ogranich	_
+end
+
+start
+V	A	PR	A	S	A	_
+_	_	_	_	_	_	indic/indic	sg/sg	pr	pr/pr	/pr	sg/sg	-2	-1	-1	+1	-2	_	root	присвяз	atrib	opred	predl	_	_
+end
+
+start
+V	A	PR	A	S	S	CONJ	V	_
+_	_	_	_	_	_	_	_	ipf/ipf	sg/sg	pr	pl/pl	gen/pl	gen/sg	conj	ipf/ipf	_	-1	-1	+1	-2	-1	_	-1	_	присвяз	1-kompl	opred	predl	kvaziagent	_	soch-soyuzn	_
+end
+
+start
+S	S	S	_
+_	_	_	acc/sg	gen/sg	gen/sg	-2	-1	-1	1-kompl	kvaziagent	1-kompl	_
+end
+
+start
+V	ADV	NUM	_
+_	_	_	ipf/ipf	adv	num	_	-1	-1	_	присвяз	сравнит	_
+end
+
+start
+V	PR	S	_
+_	_	_	ipf/ipf	pr	dat/pl	_	-1	-1	_	присвяз	predl	_
+end
+
+start
+A	CONJ	A	_
+_	_	_	sg/sg	conj	sg/sg	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+V	CONJ	NUM	PR	A	S	S	_
+_	_	_	_	_	_	_	strad/strad	conj	num	pr	pl/pl	gen/pl	gen/sg	_	-1	-1	-1	+1	-2	-1	_	2-kompl	sravn-soyuzn	electiv	opred	predl	kvaziagent	_
+end
+
+start
+S	PR	S	_
+_	_	_	ins/sg	pr	/pr	-2	-1	-1	1-kompl	atrib	predl	_
+end
+
+start
+A	_
+_	pl/pl	+1	opred	_
+end
+
+start
+V	CONJ	S	_
+_	_	_	inpraes/inpraes	conj	nom/sg	-2	-1	-1	root	vvodn	sravn-soyuzn	_
+end
+
+start
+V	NID	NID	NID	NID	NID	_
+_	_	_	_	_	_	ipf/ipf	nid	nid	nid	nid	nid	_	-1	-1	-1	-1	-1	_	1-kompl	appoz	appoz	appoz	appoz	_
+end
+
+start
+V	PARTCP	PR	S	S	_
+_	_	_	_	_	ipf/ipf	strad/strad	pr	acc/sg	gen/sg	_	-1	-1	-1	-1	_	pass-anal	3-kompl	predl	kvaziagent	_
+end
+
+start
+V	S	CONJ	_
+_	_	_	inpraes/inpraes	gen/pl	conj	_	-1	-1	_	predic	1-kompl	_
+end
+
+start
+V	PARTCP	S	_
+_	_	_	ipf/ipf	strad/strad	ins/sg	_	-1	-1	_	pass-anal	agent	_
+end
+
+start
+A	S	_
+_	_	sg/sg	dat/sg	+1	+1	opred	2-kompl	_
+end
+
+start
+V	PR	NUM	PR	A	S	S	CONJ	_
+_	_	_	_	_	_	_	_	indic/indic	pr	num	pr	pl/pl	gen/pl	gen/sg	conj	_	-1	-1	-1	+1	-2	-1	_	_	2-kompl	predl	electiv	opred	predl	kvaziagent	_	_
+end
+
+start
+V	S	S	_
+_	_	_	indic/indic	nom/sg	gen/sg	_	-1	-1	_	predic	1-kompl	_
+end
+
+start
+V	PR	S	CONJ	S	V	_
+_	_	_	_	_	_	ipf/ipf	pr	/pr	conj	nom/pl	pl/pl	_	-1	-1	-1	+1	-2	_	1-kompl	predl	eksplet	predic	podch-soyuzn	_
+end
+
+start
+V	PR	S	NUM	_
+_	_	_	_	inpraes/inpraes	pr	gen/sg	num	_	-1	-1	-1	_	2-kompl	predl	kvaziagent	_
+end
+
+start
+S	PARTCP	PR	A	S	A	V	NUM	S	ADV	_
+_	_	_	_	_	_	_	_	_	_	nom/pl	strad/strad	pr	pl/pl	gen/pl	pl/pl	ipf/ipf	num	gen/pl	adv	-2	-1	-1	+1	-2	-1	-1	+1	-2	_	predic	opred	2-kompl	opred	predl	opred	1-kompl	kolichest	1-kompl	_	_
+end
+
+start
+V	PR	S	PR	A	S	CONJ	V	_
+_	_	_	_	_	_	_	_	strad/strad	pr	/pr	pr	sg/sg	dat/sg	conj	v	_	-1	-1	-1	+1	-2	_	-1	_	2-kompl	predl	1-kompl	opred	predl	_	inf-soyuzn	_
+end
+
+start
+V	PR	S	S	PART	S	S	_
+_	_	_	_	_	_	_	inpraes/inpraes	pr	gen/sg	gen/sg	part	gen/sg	gen/sg	_	-1	-1	-1	+1	-2	-1	_	1-kompl	predl	kvaziagent	vspom	appoz	appoz	_
+end
+
+start
+V	PR	S	S	PART	V	_
+_	_	_	_	_	_	ipf/ipf	pr	/pr	gen/sg	part	v	_	-1	-1	-1	+1	_	_	obst	predl	atrib	ogranich	_	_
+end
+
+start
+S	S	S	_
+_	_	_	acc/pl	gen/sg	nom/sg	_	-1	-1	_	atrib	appoz	_
+end
+
+start
+V	PR	S	S	PARTCP	S	_
+_	_	_	_	_	_	inpraes/inpraes	pr	/pr	gen/pl	strad/strad	ins/sg	_	-1	-1	-1	-1	-1	_	1-kompl	predl	1-kompl	opred	agent	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	nom/sg	nom/sg	_	-1	-1	_	sochin	sochin	_
+end
+
+start
+V	PR	S	S	_
+_	_	_	_	v	pr	/pr	gen/sg	_	-1	-1	-1	_	1-kompl	predl	kvaziagent	_
+end
+
+start
+V	PR	S	_
+_	_	_	inpraes/inpraes	pr	/pr	_	-1	-1	_	2-kompl	predl	_
+end
+
+start
+CONJ	V	PR	S	S	_
+_	_	_	_	_	conj	inpraes/inpraes	pr	/pr	gen/pl	_	-1	-1	-1	-1	_	soch-soyuzn	obst	predl	kvaziagent	_
+end
+
+start
+S	PR	S	S	_
+_	_	_	_	acc/pl	pr	nom/sg	gen/sg	_	-1	-1	-1	_	atrib	predl	1-kompl	_
+end
+
+start
+V	PR	S	_
+_	_	_	pl/pl	pr	acc/pl	_	-1	-1	_	2-kompl	predl	_
+end
+
+start
+V	PR	S	_
+_	_	_	strad/strad	pr	/pr	_	-1	-1	_	obst	predl	_
+end
+
+start
+V	S	A	_
+_	_	_	pl/pl	ins/sg	sg/sg	_	-1	-1	_	присвяз	opred	_
+end
+
+start
+V	S	CONJ	S	_
+_	_	_	_	inpraes/inpraes	gen/sg	conj	gen/sg	_	-1	-1	-1	_	predic	sochin	soch-soyuzn	_
+end
+
+start
+S	S	PR	S	_
+_	_	_	_	nom/sg	gen/sg	pr	acc/pl	_	-1	-1	-1	_	kvaziagent	2-kompl	predl	_
+end
+
+start
+V	S	NID	NID	_
+_	_	_	_	inpraes/inpraes	ins/pl	nid	nid	_	-1	-1	-1	_	1-kompl	1-kompl	appoz	_
+end
+
+start
+S	_
+_	nom/sg	+1	predic	_
+end
+
+start
+PART	_
+_	part	+1	ogranich	_
+end
+
+start
+V	S	PR	S	_
+_	_	_	_	inpraes/inpraes	ins/sg	pr	/pr	_	-1	-1	-1	_	2-kompl	atrib	predl	_
+end
+
+start
+V	S	S	A	S	CONJ	_
+_	_	_	_	_	_	inpraes/inpraes	acc/sg	gen/sg	sg/sg	ins/sg	conj	_	-1	-1	+1	_	-2	_	1-kompl	kvaziagent	opred	_	1-kompl	_
+end
+
+start
+PR	S	S	NUM	PR	S	S	_
+_	_	_	_	_	_	_	pr	/pr	gen/sg	num	pr	gen/pl	gen/sg	_	-1	-1	-1	-1	-1	-1	_	predl	1-kompl	kvaziagent	electiv	predl	1-kompl	_
+end
+
+start
+V	S	S	ADV	V	_
+_	_	_	_	_	inpraes/inpraes	dat/pl	gen/sg	adv	inpraes/inpraes	-2	-1	-1	+1	_	podch-soyuzn	1-kompl	kvaziagent	ogranich	_	_
+end
+
+start
+A	_
+_	sg/sg	+1	opred	_
+end
+
+start
+V	S	S	PART	S	S	_
+_	_	_	_	_	_	ipf/ipf	ins/sg	nom/sg	part	nom/sg	nom/sg	-1	-1	-1	+1	_	-1	root	1-kompl	1-kompl	ogranich	_	appoz	_
+end
+
+start
+NUM	PR	S	S	_
+_	_	_	_	num	pr	gen/pl	gen/sg	_	-1	-1	-1	_	electiv	predl	kvaziagent	_
+end
+
+start
+PR	S	S	S	_
+_	_	_	_	pr	gen/sg	gen/sg	gen/sg	_	-1	-1	-1	_	predl	1-kompl	kvaziagent	_
+end
+
+start
+V	S	S	PR	S	_
+_	_	_	_	_	indic/indic	ins/sg	gen/sg	pr	/pr	_	-1	-1	-1	-1	_	2-kompl	1-kompl	1-kompl	predl	_
+end
+
+start
+V	S	S	PR	S	_
+_	_	_	_	_	strad/strad	nom/sg	nom/sg	pr	acc/sg	_	-1	-1	-1	-1	_	predic	appoz	atrib	predl	_
+end
+
+start
+V	S	S	S	S	_
+_	_	_	_	_	inpraes/inpraes	acc/sg	acc/sg	gen/sg	gen/sg	_	-1	-1	-1	-1	_	1-kompl	sochin	kvaziagent	1-kompl	_
+end
+
+start
+V	S	S	S	_
+_	_	_	_	strad/strad	nom/sg	gen/pl	gen/sg	-2	-1	-1	-1	root	predic	1-kompl	kvaziagent	_
+end
+
+start
+S	S	S	_
+_	_	_	nom/sg	gen/sg	gen/pl	_	-1	-1	_	1-kompl	kvaziagent	_
+end
+
+start
+S	S	S	A	S	_
+_	_	_	_	_	ins/pl	gen/sg	gen/pl	sg/sg	gen/sg	-2	-1	-1	+1	-2	1-kompl	1-kompl	1-kompl	opred	atrib	_
+end
+
+start
+S	S	S	S	_
+_	_	_	_	nom/sg	gen/pl	gen/sg	gen/sg	_	-1	-1	-1	_	1-kompl	1-kompl	1-kompl	_
+end
+
+start
+V	S	S	_
+_	_	_	indic/indic	acc/pl	gen/pl	_	-1	-1	_	1-kompl	1-kompl	_
+end
+
+start
+ADV	_
+_	adv	+1	obst	_
+end
+
+start
+V	S	NUM	_
+_	_	_	ipf/ipf	acc/sg	num	_	-1	-1	_	1-kompl	appoz	_
+end
+
+start
+S	PR	S	S	_
+_	_	_	_	gen/sg	pr	/pr	gen/sg	-2	-1	-1	-1	1-kompl	1-kompl	predl	1-kompl	_
+end
+
+start
+V	CONJ	NID	CONJ	PART	NID	ADV	_
+_	_	_	_	_	_	_	pl/pl	conj	nid	conj	part	nid	adv	_	-1	-1	-1	+1	-2	_	_	4-kompl	podch-soyuzn	sochin	ogranich	soch-soyuzn	_	_
+end
+
+start
+CONJ	_
+_	conj	-2	сравнит	_
+end
+
+start
+V	S	S	_
+_	_	_	indic/indic	nom/sg	gen/pl	_	-1	-1	_	predic	kvaziagent	_
+end
+
+start
+V	S	S	_
+_	_	_	inpraes/inpraes	acc/sg	gen/pl	_	-1	-1	_	1-kompl	kvaziagent	_
+end
+
+start
+S	S	S	S	S	S	_
+_	_	_	_	_	_	ins/pl	nom/sg	nom/sg	nom/sg	nom/sg	nom/sg	_	-1	-1	-1	-1	-1	_	разъяснит	sochin	sochin	sochin	sochin	_
+end
+
+start
+V	S	S	_
+_	_	_	inpraes/inpraes	nom/sg	gen/sg	-2	-1	-1	relyat	predic	1-kompl	_
+end
+
+start
+V	S	S	_
+_	_	_	inpraes/inpraes	nom/sg	gen/sg	_	-1	-1	_	predic	kvaziagent	_
+end
+
+start
+V	S	S	_
+_	_	_	strad/strad	ins/sg	gen/pl	-2	-1	-1	root	agent	kvaziagent	_
+end
+
+start
+PR	S	S	PR	A	S	PARTCP	S	PR	S	_
+_	_	_	_	_	_	_	_	_	_	pr	/pr	gen/pl	pr	sg/sg	dat/sg	strad/strad	ins/pl	pr	gen/sg	_	-1	-1	-1	+1	-2	_	-1	-2	-1	_	predl	kvaziagent	atrib	opred	predl	_	agent	obst	predl	_
+end
+
+start
+CONJ	PR	S	S	PR	S	_
+_	_	_	_	_	_	conj	pr	/pr	gen/pl	pr	ins/pl	_	-1	-1	-1	-1	-1	_	soch-soyuzn	predl	kvaziagent	1-kompl	predl	_
+end
+
+start
+V	S	S	_
+_	_	_	strad/strad	nom/pl	gen/sg	_	-1	-1	_	predic	kvaziagent	_
+end
+
+start
+V	V	A	CONJ	A	_
+_	_	_	_	_	inpraes/inpraes	strad/strad	pl/pl	conj	pl/pl	-2	-1	-1	-1	-1	root	1-kompl	об-копр	sochin	soch-soyuzn	_
+end
+
+start
+NUM	CONJ	NUM	_
+_	_	_	num	conj	num	_	-1	-1	_	sochin	soch-soyuzn	_
+end
+
+start
+V	V	PARTCP	S	_
+_	_	_	_	inpraes/inpraes	ipf/ipf	strad/strad	ins/pl	-2	-1	-1	-1	root	1-kompl	pass-anal	3-kompl	_
+end
+
+start
+V	V	S	PART	S	PARTCP	_
+_	_	_	_	_	_	inpraes/inpraes	ipf/ipf	acc/sg	part	nom/pl	strad/strad	_	-1	-1	+1	_	-1	_	1-kompl	1-kompl	ogranich	_	opred	_
+end
+
+start
+NUM	_
+_	num	+1	kolichest	_
+end
+
+start
+V	V	S	S	_
+_	_	_	_	ipf/ipf	ipf/ipf	ins/pl	gen/sg	_	-1	-1	-1	_	1-kompl	2-kompl	atrib	_
+end
+
+start
+S	S	S	_
+_	_	_	acc/sg	acc/sg	acc/sg	-2	-1	-1	sravn-soyuzn	appoz	appoz	_
+end
+
+start
+V	V	SPRO	_
+_	_	_	ipf/ipf	ipf/ipf	acc/sg	-2	-1	-1	root	1-kompl	1-kompl	_
+end
+
+start
+PART	_
+_	part	+1	ogranich	_
+end
+

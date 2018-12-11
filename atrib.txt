@@ -1,0 +1,13 @@
+atrib	_
+{
+69	PR	_	S	_	gen	prev	_	_	_
+57	PR	_	S	_	nom	prev	_	_	_
+34	PR	_	S	_	acc	prev	_	_	_
+25	S	gen	S	_	nom	prev	_	_	_
+21	S	gen	S	_	acc	prev	_	_	_
+20	S	gen	S	_	gen	prev	_	_	_
+15	PR	_	S	ение	nom	prev	_	_	_
+13	PR	_	S	_	ins	prev	_	_	_
+12	PR	_	S	_	pr	prev	_	_	_
+11	PR	_	S	ение	pr	prev	_	_	_
+}

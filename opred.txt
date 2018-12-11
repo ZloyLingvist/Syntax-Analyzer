@@ -1,0 +1,12 @@
+opred
+{
+105	A	_	S	_	_	right	A/S	opred/predic	_
+86	A	_	S	_	_	right	A/S	opred/1-kompl	_
+77	A	_	S	_	_	right	A/S	opred/predic	_
+71	NUM	_	S	_	_	right	NUM/S	opred/predl	_
+61	A	_	S	_	_	right	A/S	opred/predl	_
+61	A	_	S	_	_	right	A/S	opred/predic	_
+58	A	_	S	_	_	right	A/S	opred/1-kompl	_
+55	A	_	S	_	_	right	A/S	opred/predl	_
+52	A	_	S	_	_	right	A/S	opred/predl	_
+}

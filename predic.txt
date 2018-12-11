@@ -1,0 +1,18 @@
+predic	_
+{
+132	S	nom	V	_	indic	prev	_	_	_
+109	S	nom	V	_	indic	right	S/V	predic/root	_
+47	S	nom	V	_	indic	left	S/A/V	predic/opred/root	_
+42	SPRO	_	V	_	indic	right	SPRO/V	predic/root	_
+23	S	nom	V	_	indic	right	S/V	predic/relyat	_
+17	S	nom	V	_	indic	right	S/S/V	predic/kvaziagent/root	_
+17	V	_	V	_	indic	prev	_	_	_
+15	V	_	ADV	_	_	prev	_	_	_
+14	S	nom	V	_	indic	left	S/A/PARTCP/V	predic/opred/pass-anal/root	_
+13	S	nom	V	_	indic	right	S/V	predic/sent-soch	_
+12	SPRO	_	V	_	indic	right	SPRO/PART/V	predic/ogranich/root	_
+11	S	nom	V	_	indic	right	S/ADV/V	predic/obst/root	_
+11	S	nom	V	_	indic	right	S/V	predic/soch-soyuzn	_
+11	S	nom	V	_	indic	right	S/V	predic/podch-soyuzn	_
+10	S	nom	V	_	indic	right	S/S/V	predic/1-kompl/root	_
+}

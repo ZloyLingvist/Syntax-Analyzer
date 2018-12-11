@@ -1,0 +1,8 @@
+kolichest	_
+{
+44	NUM	_	S	_	gen	right	NUM/S	kolichest/predl	_
+22	NUM	_	S	_	gen	right	NUM/S	kolichest/predic	_
+22	NUM	_	S	_	gen	right	NUM/S	kolichest/1-kompl	_
+18	NUM	_	S	_	gen	right	NUM/S	kolichest/primikat	_
+18	NUM	_	S	_	gen	right	NUM/S	kolichest/сравнит	_
+}

@@ -1,0 +1,4 @@
+vspom	_
+{
+10	S	nom	S	_	nom	prev	_	_	_
+}

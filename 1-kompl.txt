@@ -1,0 +1,31 @@
+1-kompl
+{
+70	PR	_	V	_	indic	prev	_	_	_
+42	S	s sg n gen inan	S	_	nom	prev	_	_	_
+41	V	v ipf inf	V	_	indic	prev	_	_	_
+38	S	s sg n acc inan	V	_	indic	prev	_	_	_
+33	S	s sg m gen inan	S	_	gen	prev	_	_	_
+29	S	s sg m gen inan	S	_	nom	prev	_	_	_
+24	S	s sg f gen inan	S	_	gen	prev	_	_	_
+24	S	s sg n gen inan	S	_	gen	prev	_	_	_
+23	S	s sg f gen inan	S	ение	gen	prev	_	_	_
+21	S	s sg m acc inan	V	_	indic	prev	_	_	_
+19	PR	_	S	_	nom	prev	_	_	_
+19	V	v pf inf	V	_	indic	prev	_	_	_
+18	S	s sg f gen inan	S	_	nom	prev	_	_	_
+18	S	s sg f acc inan	V	_	indic	prev	_	_	_
+17	PR	_	V	_	_	prev	_	_	_
+14	PR	_	ADV	_	_	prev	_	_	_
+13	S	s sg n acc inan	V	_	_	prev	_	_	_
+13	V	v ipf inf	A	_	brev	prev	_	_	_
+12	CONJ	_	V	_	indic	prev	_	_	_
+12	PR	_	PARTCP	_	ipf/inpraes	prev	_	_	_
+12	S	s sg m gen inan	S	_	pr	prev	_	_	_
+12	PR	_	S	_	acc	prev	_	_	_
+12	PR	_	S	_	gen	prev	_	_	_
+11	S	s sg n gen inan	S	_	pr	prev	_	_	_
+11	S	s pl m gen inan	S	_	nom	prev	_	_	_
+11	S	s sg m gen inan	S	ение	gen	prev	_	_	_
+11	V	v ipf strad inf	V	_	indic	prev	_	_	_
+11	PR	_	S	_	pr	prev	_	_	_
+}

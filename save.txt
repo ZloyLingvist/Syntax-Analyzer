@@ -1,0 +1,19 @@
+root	_
+{
+0	CONJ	_	_	if	pos	1	и/но	_	_
+743	V	indic	_	_
+26	A	brev	_	_
+26	PARTCP	brev	_	_
+1	S	nom	_	if	это	_	
+1	S	nom	_	_
+}
+
+opred	_
+{
+527	A	_	S	_	_	next	_
+527	A	_	S	_	_	right	_
+527	PARTCP	_	S	_	_	prev	_
+63	NUM	_	S	_	gen	next	_
+71	NUM	_	S	_	mestn	next	_
+}
+

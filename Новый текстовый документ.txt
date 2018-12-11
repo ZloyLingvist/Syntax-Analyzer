@@ -1,0 +1,60 @@
+left
+#t=j-1
+                                 while(t>0):
+                                      if greater[t]==['', '\n']:
+                                          t=t-1
+                                          continue
+                                      if greater[t][3]==rule[2] or greater[t][2]==rule[2] :
+                                             if rule[3]!="_":
+                                                 if not rule[3] in greater[j-1][2]:
+                                                     continue
+                                            
+                                             if rule[4]!="_":
+                                                 row=rule[4].split('/')
+                                                 for y in range(len(row)):
+                                                     if not row[y] in greater[j][4]: ##проверили морфологию
+                                                        continue
+                                                        
+                                                 if y==len(row)-1:
+                                                     if morph[j][6]=="_":
+                                                             morph[j][6]=greater[t][0]
+                                                             morph[j][7]=name
+                                                     if show==1:
+                                                             if name in morph[j][7]:
+                                                                     return morph
+                                                             morph[j][6]=morph[j][6]+":"+greater[j+1][0]
+                                                             morph[j][7]=morph[j][7]+":"+name
+                                                     continue##
+
+
+
+
+t=j+1
+                                 while(0<1):
+                                      if greater[t]==['', '\n']:
+                                          t=t+1
+                                          continue
+
+                                      if greater[t][3]=="SENT":
+                                              break
+                                      if greater[t][3]==rule[2] or greater[t][2]==rule[2] :
+                                             if rule[3]!="_":
+                                                 if not rule[3] in greater[j+1][2]:
+                                                     break
+                                            
+                                             if rule[4]!="_":
+                                                 row=rule[4].split('/')
+                                                 for y in range(len(row)):
+                                                     if not row[y] in greater[j][4]: ##проверили морфологию
+                                                         continue
+                                                        
+                                                 if y==len(row)-1:
+                                                     if morph[j][6]=="_":
+                                                             morph[j][6]=greater[t][0]
+                                                             morph[j][7]=name
+                                                     if show==1:
+                                                             if name in morph[j][7]:
+                                                                     return morph
+                                                             morph[j][6]=morph[j][6]+":"+greater[j+1][0]
+                                                             morph[j][7]=morph[j][7]+":"+name
+                                                     break

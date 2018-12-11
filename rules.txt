@@ -1,0 +1,34 @@
+PARTCP brev root 0 конец
+V - root 0 конец
+A brev root 0 конец
+- - root 0 конец
+PARTCP|A plen root 0 if pos 1 конец
+S|SPRO nom predic linkroot конец
+S - predl prev PR if prev PR конец
+PART - оgranich next - конец
+S gen kvaziagent left S - if prev! NUM prev! CONJ стоп root конец
+S gen kvaziagent left copy_prev - if prev CONJ конец
+S !nom 1-kompl left root - if стоп PR конец
+#S !nom 1-kompl linkroot if pos 1 конец
+NUM - predic linkroot if pos 1 next S параметр2 gen конец
+NUM - predl prev PR - if prev PR next! S next! A конец 
+NUM - kolich left S|root - if next! S конец
+NUM - kolich right S if next A конец
+NUM - predl left PR if prev PR prev PR конец
+NONLEX - atrib prev - prev S конец
+NONLEX - 1-kompl next if next root конец
+NONLEX - predic right root - next root конец
+A plen 1-kompl left root - if next! S next! A конец
+A|PARTCP plen opred right S|SPRO same_padej конец
+S|SPRO - predl left PR - if параметр! nom стоп root конец
+PR - obst|atrib everywhere table_value - конец
+CONJ - sochin prev - if значение и или конец
+CONJ - nesochin1 linkroot - if значение если но что а конец
+CONJ - nesochin2 linkroot - if значение как конец
+ADV - advlink родитель linkroot параметр - конец
+SPRO - связь opred родитель right S параметр - if значение их его это конец
+S !nom связь 1-kompl родитель prev параметр - if prev PARTCP конец
+SENT - punc prev конец
+, - punc prev конец
+all - - left copy_prev - if prev CONJ конец
+all - unknown prev - конец
